@@ -1,0 +1,30 @@
+{
+    "title": "Mandarin Chinese IDS wordlist by Hsiao-jung Yu and Yifan Wang",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Wordlist",
+        "linguistics"
+    ],
+    "creators": [
+        {
+            "name": "Hsiao-jung Yu"
+        },
+        {
+            "name": "Yifan Wang"
+        },
+        {
+            "name": "Hans-J\u00f6rg Bibiko"
+        }
+    ],
+    "contributors": [],
+    "communities": [
+        {
+            "identifier": "lexibank"
+        }
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Hsiao-jung Yu and Yifan Wang. 2021. Mandarin Chinese dictionary. In: Key, Mary Ritchie &amp; Comrie, Bernard (eds.) The Intercontinental Dictionary Series. Leipzig: Max Planck Institute for Evolutionary Anthropology. (Available online at https://ids.clld.org/)</p>\n</blockquote>",
+    "license": {
+        "id": "CC-BY-4.0"
+    }
+}
