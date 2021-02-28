@@ -16,7 +16,7 @@ class Dataset(IDSDataset):
 
     def cmd_makecldf(self, args):
         glottocode = "mand1415"
-        reprs = ['Pinyin', 'Hanzi (Simplified)', 'Hanzi (Traditional)']
+        reprs = ['Pinyin', 'StandOrth (Simplified)', 'StandOrth (Traditional)']
 
         args.writer.add_concepts(id_factory=lambda c: c.attributes['ids_id'])
         args.writer.add_sources(*self.raw_dir.read_bib())
