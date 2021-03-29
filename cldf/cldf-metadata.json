@@ -17,7 +17,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/intercontinental-dictionary-series/yuchinese",
-            "dc:created": "v1.0-2-g01b56d6"
+            "dc:created": "v1.0-3-g8104bda"
         },
         {
             "rdf:type": "prov:Entity",
