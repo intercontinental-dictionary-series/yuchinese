@@ -324,12 +324,12 @@ mand1415-4-310-1,,mand1415,4-310,bì,bì,p i ⁵¹,medical,yuhsiaojung2021,,,^ b
 mand1415-4-310-2,,mand1415,4-310,gēbo,gēbo,k ə ⁵⁵ + p w o ⁰,colloquial,yuhsiaojung2021,,,^ gē bo$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),胳膊;胳膊
 mand1415-4-312-1,,mand1415,4-312,yèwō,yèwō,j ə ⁵¹ + w ɔ ⁵⁵,,yuhsiaojung2021,,,^ yè wō$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),腋窝;腋窩
 mand1415-4-320-1,,mand1415,4-320,zhǒu,zhǒu,ʈʂ ɔu ²¹⁴,,yuhsiaojung2021,,,^ zhǒu$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),肘;肘
-mand1415-4-321-1,,mand1415,4-321,wànguānjié,wànguānjié,w a n ⁵¹ + g w a n ⁵⁵ + tɕ j ɛ ³⁵,,yuhsiaojung2021,,,^ wànguānjié $,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),腕关节;腕關節
+mand1415-4-321-1,,mand1415,4-321,wànguānjié,wànguānjié,w a n ⁵¹ + k w a n ⁵⁵ + tɕ j ɛ ³⁵,,yuhsiaojung2021,,,^ wànguānjié $,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),腕关节;腕關節
 mand1415-4-330-1,,mand1415,4-330,shǒu,shǒu,ʂ ɔu ²¹⁴,,yuhsiaojung2021,,,^ shǒu$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),手;手
 mand1415-4-331-1,,mand1415,4-331,shǒuzhǎng,shǒuzhǎng,ʂ ɔu ²¹⁴ + ʈʂ a ŋ ²¹⁴,,yuhsiaojung2021,,,^ shǒu zhǎng$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),手掌;手掌
 mand1415-4-340-1,,mand1415,4-340,shǒuzhǐ,shǒuzhǐ,ʂ ɔu ²¹⁴ + ʈʂ ʅ ²¹⁴,,yuhsiaojung2021,,,^ shǒu zhǐ$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),手指;手指
 mand1415-4-342-1,,mand1415,4-342,mǔzhǐ,mǔzhǐ,m u ²¹⁴ + ʈʂ ʅ ²¹⁴,,yuhsiaojung2021,,,^ mǔ zhǐ$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),拇指;拇指
-mand1415-4-344-1,,mand1415,4-344,shǒuzhījia,shǒuzhījia,ʂ ou ²¹⁴ + ʈʐ ʅ ⁵⁵ + tɕ j a ⁰,,yuhsiaojung2021,,,^ shǒuzhījia $,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),手指甲;手指甲
+mand1415-4-344-1,,mand1415,4-344,shǒuzhījia,shǒuzhījia,ʂ ɔu ²¹⁴ + ʈʂ ʅ ⁵⁵ + tɕ j a ⁰,,yuhsiaojung2021,,,^ shǒuzhījia $,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),手指甲;手指甲
 mand1415-4-345-1,,mand1415,4-345,zhuǎzi,zhuǎzi,ʈʂ w a ²¹⁴ + ts ɿ ⁰,,yuhsiaojung2021,,,^ zhuǎ zi$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),爪子;爪子
 mand1415-4-350-1,,mand1415,4-350,tuǐ,tuǐ,tʰ w əi ²¹⁴,,yuhsiaojung2021,,,^ tuǐ$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),腿;腿
 mand1415-4-351-1,,mand1415,4-351,dàtuǐ,dàtuǐ,t a ⁵¹ + tʰ w əi ²¹⁴,,yuhsiaojung2021,,,^ dà tuǐ$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),大腿;大腿
@@ -363,7 +363,7 @@ mand1415-4-492-1,,mand1415,4-492,yīnjīnɡ,yīnjīnɡ,j i n ⁵⁵ + tɕ i ŋ �
 mand1415-4-510-1,,mand1415,4-510,hūxī,hūxī,x u ⁵⁵ + ɕ i ⁵⁵,,yuhsiaojung2021,,,^ hū xī$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),呼吸;呼吸
 mand1415-4-520-1,,mand1415,4-520,dǎ hāqian,dǎ_hāqian,t a ²¹⁴ + x a ⁵⁵ + tɕʰ j ɛ n ⁰,,yuhsiaojung2021,,,^ dǎ_ hā qian$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),打哈欠;打哈欠
 mand1415-4-521-1,,mand1415,4-521,dǎ gé,dǎ_gé,t a ²¹⁴ + k ə ³⁵,,yuhsiaojung2021,,,^ dǎ_ gé$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),打嗝;打嗝
-mand1415-4-530-1,,mand1415,4-530,késou,késou,kʰ ə ³⁵ + s ou ⁰,,yuhsiaojung2021,,,^ késou $,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),咳嗽;咳嗽
+mand1415-4-530-1,,mand1415,4-530,késou,késou,kʰ ə ³⁵ + s ɔu ⁰,,yuhsiaojung2021,,,^ késou $,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),咳嗽;咳嗽
 mand1415-4-540-1,,mand1415,4-540,dǎ pēntì,dǎ_pēntì,t a ²¹⁴ + pʰ ə n ⁵⁵ + tʰ i ⁵¹,,yuhsiaojung2021,,,^ dǎ_ pēn tì$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),打喷嚏;打噴嚏
 mand1415-4-550-1,,mand1415,4-550,chū hàn,chū_hàn,ʈʂ u ⁵⁵ + x a n ⁵¹,,yuhsiaojung2021,,,^ chū_ hàn$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),出汗;出汗
 mand1415-4-560-1,,mand1415,4-560,tǔ kǒushuǐ,tǔ_kǒushuǐ,tʰ u ²¹⁴ + kʰ ɔu ²¹⁴ + ʂ w əi ²¹⁴,,yuhsiaojung2021,,,^ tǔ_ kǒu shuǐ$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),吐口水;吐口水
@@ -711,7 +711,7 @@ mand1415-9-223-2,,mand1415,9-223,zhā,zhā,ʈʂ a ⁵⁵,,yuhsiaojung2021,,,^ zh
 mand1415-9-230-1,,mand1415,9-230,dāo,dāo,t au ⁵⁵,,yuhsiaojung2021,,,^ dāo$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),刀;刀
 mand1415-9-240-1,,mand1415,9-240,jiǎndāo,jiǎndāo,tɕ j ɛ n ²¹⁴ + t au ⁵⁵,,yuhsiaojung2021,,,^ jiǎn dāo$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),剪刀;剪刀
 mand1415-9-250-1,,mand1415,9-250,fǔ,fǔ,f u ²¹⁴,,yuhsiaojung2021,,,^ fǔ$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),斧;斧
-mand1415-9-251-1,,mand1415,9-251,bēnzi,bēnzi,p e n ⁵⁵ + ts ɿ ⁰,,yuhsiaojung2021,,,^ bēn zi$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),锛子;錛子
+mand1415-9-251-1,,mand1415,9-251,bēnzi,bēnzi,p ə n ⁵⁵ + ts ɿ ⁰,,yuhsiaojung2021,,,^ bēn zi$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),锛子;錛子
 mand1415-9-260-1,,mand1415,9-260,dǎ pò,dǎ_pò,t a ²¹⁴ + pʰ w ɔ ⁵¹,shatter,yuhsiaojung2021,,,^ dǎ_ pò$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),打破;打破
 mand1415-9-260-2,,mand1415,9-260,nòng duàn,nòng_duàn,n ʊ ŋ ⁵¹ + t w a n ⁵¹,snap,yuhsiaojung2021,,,^ nòng_ duàn$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),弄断;弄斷
 mand1415-9-261-1,,mand1415,9-261,pòsuì,pòsuì,pʰ w ɔ ⁵¹ + s w əi ⁵¹,shattered,yuhsiaojung2021,,,^ pò suì$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),破碎;破碎
