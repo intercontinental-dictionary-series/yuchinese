@@ -54,7 +54,7 @@ mand1415-1-570-1,,mand1415,1-570,léijī,léijī,l əi ³⁵ + tɕ i ⁵⁵,,y
 mand1415-1-580-1,,mand1415,1-580,bàofēngyǔ,bàofēngyǔ,p au ⁵¹ + f ə ŋ ⁵⁵ + ɥ y ²¹⁴,,yuhsiaojung2021,,,^ bào fēng yǔ$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),暴风雨;暴風雨
 mand1415-1-590-1,,mand1415,1-590,cǎihóng,cǎihóng,tsʰ ai ²¹⁴ + x ʊ ŋ ³⁵,,yuhsiaojung2021,,,^ cǎi hóng$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),彩虹;彩虹
 mand1415-1-610-1,,mand1415,1-610,guāng,guāng,k w a ŋ ⁵⁵,,yuhsiaojung2021,,,^ guāng$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),光;光
-mand1415-1-620-1,,mand1415,1-620,hēi’àn,hēi’àn,x əi ⁵⁵ + + a n ⁵¹,,yuhsiaojung2021,,,^ hēi ’àn $,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),黑暗;黑暗
+mand1415-1-620-1,,mand1415,1-620,hēi’àn,hēi_àn,x əi ⁵⁵ + a n ⁵¹,,yuhsiaojung2021,,,^ hēi_ àn$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),黑暗;黑暗
 mand1415-1-630-1,,mand1415,1-630,yīnyǐng,yīnyǐng,j i n ⁵⁵ + j i ŋ ²¹⁴,,yuhsiaojung2021,,,^ yīn yǐng$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),阴影;陰影
 mand1415-1-640-1,,mand1415,1-640,lùshuǐ,lùshuǐ,l u ⁵¹ + ʂ w əi ²¹⁴,,yuhsiaojung2021,,,^ lù shuǐ$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),露水;露水
 mand1415-1-710-1,,mand1415,1-710,kōngqì,kōngqì,kʰ ʊ ŋ ⁵⁵ + tɕʰ i ⁵¹,,yuhsiaojung2021,,,^ kōng qì$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),空气;空氣
@@ -88,7 +88,7 @@ mand1415-2-260-1,,mand1415,2-260,nǚhái,nǚhái,n y ²¹⁴ + x ai ³⁵,,y
 mand1415-2-261-1,,mand1415,2-261,shàonǚ,shàonǚ,ʂ au ⁵¹ + n y ²¹⁴,,yuhsiaojung2021,,,^ shào nǚ$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),少女;少女
 mand1415-2-270-1,,mand1415,2-270,értóng,értóng,ɚ ³⁵ + tʰ ʊ ŋ ³⁵,pre-puberty,yuhsiaojung2021,,,^ ér tóng$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),儿童;兒童
 mand1415-2-270-2,,mand1415,2-270,háizi,háizi,x ai ³⁵ + ts ɿ ⁰,offspring,yuhsiaojung2021,,,^ hái zi$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),孩子;孩子
-mand1415-2-280-1,,mand1415,2-280,yīng’ér,yīng’ér,j i ŋ ⁵⁵ + ə˞ ³⁵,,yuhsiaojung2021,,,^ yīng ’ér $,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),婴儿;嬰兒
+mand1415-2-280-1,,mand1415,2-280,yīng’ér,yīng_ér,j i ŋ ⁵⁵ + ɚ ³⁵,,yuhsiaojung2021,,,^ yīng_ ér$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),婴儿;嬰兒
 mand1415-2-310-1,,mand1415,2-310,zhàngfu,zhàngfu,ʈʂ a ŋ ⁵¹ + f u ⁰,,yuhsiaojung2021,,,^ zhàng fu$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),丈夫;丈夫
 mand1415-2-320-1,,mand1415,2-320,qīzi,qīzi,tɕʰ i ⁵⁵ + ts ɿ ⁰,,yuhsiaojung2021,,,^ qī zi$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),妻子;妻子
 mand1415-2-330-1,,mand1415,2-330,jiéhūn,jiéhūn,tɕ j ə ³⁵ + x ʊ n ⁵⁵,,yuhsiaojung2021,,,^ jié hūn$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),结婚;結婚
@@ -98,10 +98,10 @@ mand1415-2-341-1,,mand1415,2-341,líhūn,líhūn,l i ³⁵ + x ʊ n ⁵⁵,,yu
 mand1415-2-350-1,,mand1415,2-350,fùqin,fùqin,f u ⁵¹ + tɕʰ i n ⁰,,yuhsiaojung2021,,,^ fù qin$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),父亲;父親
 mand1415-2-360-1,,mand1415,2-360,mǔqin,mǔqin,m u ²¹⁴ + tɕʰ i n ⁰,,yuhsiaojung2021,,,^ mǔ qin$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),母亲;母親
 mand1415-2-370-1,,mand1415,2-370,fùmǔ,fùmǔ,f u ⁵¹ + m u ²¹⁴,,yuhsiaojung2021,,,^ fù mǔ$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),父母;父母
-mand1415-2-380-1,,mand1415,2-380,yǐhūn nánrén,yǐhūn nánrén,j i ²¹⁴ + x ʊ n ⁵⁵ + + n a n ³⁵ + ʐ ə n ³⁵,,yuhsiaojung2021,,,^ yǐ hūn + nán rén$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),已婚男人;已婚男人
-mand1415-2-390-1,,mand1415,2-390,yǐhūn nǚrén,yǐhūn nǚrén,j i ²¹⁴ + x ʊ n ⁵⁵ + + n y ²¹⁴ + ʐ ə n ³⁵,,yuhsiaojung2021,,,^ yǐ hūn + nǚrén $,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),已婚女人;已婚女人
+mand1415-2-380-1,,mand1415,2-380,yǐhūn nánrén,yǐhūn_nánrén,j i ²¹⁴ + x ʊ n ⁵⁵ + n a n ³⁵ + ʐ ə n ³⁵,,yuhsiaojung2021,,,^ yǐ hūn_ nán rén$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),已婚男人;已婚男人
+mand1415-2-390-1,,mand1415,2-390,yǐhūn nǚrén,yǐhūn_nǚrén,j i ²¹⁴ + x ʊ n ⁵⁵ + n y ²¹⁴ + ʐ ə n ³⁵,,yuhsiaojung2021,,,^ yǐ hūn_ nǚrén $,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),已婚女人;已婚女人
 mand1415-2-410-1,,mand1415,2-410,érzi,érzi,ɚ ³⁵ + ts ɿ ⁰,,yuhsiaojung2021,,,^ ér zi$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),儿子;兒子
-mand1415-2-420-1,,mand1415,2-420,nǚ’ér,nǚ’ér,n y ²¹⁴ + ə˞ ³⁵,,yuhsiaojung2021,,,^ nǚ ’ér $,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),女儿;女兒
+mand1415-2-420-1,,mand1415,2-420,nǚ’ér,nǚ_ér,n y ²¹⁴ + ɚ ³⁵,,yuhsiaojung2021,,,^ nǚ_ ér$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),女儿;女兒
 mand1415-2-430-1,,mand1415,2-430,zǐnǚ,zǐnǚ,ts ɿ ²¹⁴ + n y ²¹⁴,,yuhsiaojung2021,,,^ zǐ nǚ$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),子女;子女
 mand1415-2-440-1,,mand1415,2-440,xiōngdì,xiōngdì,ɕ j ʊ ŋ ⁵⁵ + t i ⁵¹,,yuhsiaojung2021,,,^ xiōng dì$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),兄弟;兄弟
 mand1415-2-444-1,,mand1415,2-444,gēge,gēge,k ə ⁵⁵ + k ə ⁰,,yuhsiaojung2021,,,^ gē ge$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),哥哥;哥哥
@@ -109,14 +109,14 @@ mand1415-2-445-1,,mand1415,2-445,dìdi,dìdi,t i ⁵¹ + t i ⁰,,yuhsiaojung20
 mand1415-2-450-1,,mand1415,2-450,jiěmèi,jiěmèi,tɕ j ə ²¹⁴ + m əi ⁵¹,,yuhsiaojung2021,,,^ jiě mèi$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),姐妹;姐妹
 mand1415-2-454-1,,mand1415,2-454,jiějie,jiějie,tɕ j ə ²¹⁴ + tɕ j ə ⁰,,yuhsiaojung2021,,,^ jiě jie$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),姐姐;姐姐
 mand1415-2-455-1,,mand1415,2-455,mèimei,mèimei,m əi ⁵¹ + m əi ⁰,,yuhsiaojung2021,,,^ mèi mei$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),妹妹;妹妹
-mand1415-2-456-1,,mand1415,2-456,xiōngdì jiěmèi,xiōngdì jiěmèi,ɕ j ʊ ŋ ⁵⁵ + t i ⁵¹ + + tɕ j ə ²¹⁴ + m əi ⁵¹,,yuhsiaojung2021,,,^ xiōng dì + jiě mèi$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),兄弟姐妹;兄弟姐妹
+mand1415-2-456-1,,mand1415,2-456,xiōngdì jiěmèi,xiōngdì_jiěmèi,ɕ j ʊ ŋ ⁵⁵ + t i ⁵¹ + tɕ j ə ²¹⁴ + m əi ⁵¹,,yuhsiaojung2021,,,^ xiōng dì_ jiě mèi$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),兄弟姐妹;兄弟姐妹
 mand1415-2-458-1,,mand1415,2-458,shuāngbāotāi,shuāngbāotāi,ʂ w a ŋ ⁵⁵ + p au ⁵⁵ + tʰ ai ⁵⁵,,yuhsiaojung2021,,,^ shuāng bāo tāi$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),双胞胎;雙胞胎
 mand1415-2-460-1,,mand1415,2-460,zǔfù,zǔfù,ts u ²¹⁴ + f u ⁵¹,paternal,yuhsiaojung2021,,,^ zǔ fù$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),祖父;祖父
 mand1415-2-460-2,,mand1415,2-460,wàizǔfù,wàizǔfù,w ai ⁵¹ + ts u ²¹⁴ + f u ⁵¹,maternal,yuhsiaojung2021,,,^ wài zǔ fù$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),外祖父;外祖父
 mand1415-2-461-1,,mand1415,2-461,lǎorén,lǎorén,l au ²¹⁴ + ʐ ə n ³⁵,,yuhsiaojung2021,,,^ lǎo rén$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),老人;老人
 mand1415-2-470-1,,mand1415,2-470,zǔmǔ,zǔmǔ,ts u ²¹⁴ + m u ²¹⁴,paternal,yuhsiaojung2021,,,^ zǔ mǔ$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),祖母;祖母
 mand1415-2-470-2,,mand1415,2-470,wàizǔmǔ,wàizǔmǔ,w ai ⁵¹ + ts u ²¹⁴ + m u ²¹⁴,maternal,yuhsiaojung2021,,,^ wài zǔ mǔ$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),外祖母;外祖母
-mand1415-2-471-1,,mand1415,2-471,lǎo fùrén,lǎo fùrén,l au ²¹⁴ + + f u ⁵¹ + ʐ ə n ³⁵,,yuhsiaojung2021,,,^ lǎo + fù rén$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),老妇人;老婦人
+mand1415-2-471-1,,mand1415,2-471,lǎo fùrén,lǎo_fùrén,l au ²¹⁴ + f u ⁵¹ + ʐ ə n ³⁵,,yuhsiaojung2021,,,^ lǎo_ fù rén$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),老妇人;老婦人
 mand1415-2-480-1,,mand1415,2-480,sūnzi,sūnzi,s ʊ n ⁵⁵ + ts ɿ ⁰,son’s son,yuhsiaojung2021,,,^ sūn zi$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),孙子;孫子
 mand1415-2-480-2,,mand1415,2-480,wàisūn,wàisūn,w ai ⁵¹ + s ʊ n ⁵⁵,daughter’s son,yuhsiaojung2021,,,^ wài sūn$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),外孙;外孫
 mand1415-2-490-1,,mand1415,2-490,sūnnǚ,sūnnǚ,s ʊ n ⁵⁵ + n y ²¹⁴,son’s daughter,yuhsiaojung2021,,,^ sūn nǚ$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),孙女;孫女
@@ -148,7 +148,7 @@ mand1415-2-710-1,,mand1415,2-710,jìfù,jìfù,tɕ i ⁵¹ + f u ⁵¹,,yuhsia
 mand1415-2-720-1,,mand1415,2-720,jìmǔ,jìmǔ,tɕ i ⁵¹ + m u ²¹⁴,,yuhsiaojung2021,,,^ jì mǔ$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),继母;繼母
 mand1415-2-730-1,,mand1415,2-730,jìzǐ,jìzǐ,tɕ i ⁵¹ + ts ɿ ²¹⁴,,yuhsiaojung2021,,,^ jì zǐ$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),继子;繼子
 mand1415-2-740-1,,mand1415,2-740,jìnǚ,jìnǚ,tɕ i ⁵¹ + n y ²¹⁴,,yuhsiaojung2021,,,^ jìnǚ $,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),继女;繼女
-mand1415-2-750-1,,mand1415,2-750,gū'ér,gū'ér,k u ⁵⁵ + <<'>> ɚ ³⁵,,yuhsiaojung2021,,,^ gū <'> ér$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),孤儿;孤兒
+mand1415-2-750-1,,mand1415,2-750,gū'ér,gū_ér,k u ⁵⁵ + ɚ ³⁵,,yuhsiaojung2021,,,^ gū_ ér$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),孤儿;孤兒
 mand1415-2-760-1,,mand1415,2-760,guǎfu,guǎfu,k w a ²¹⁴ + f u ⁰,,yuhsiaojung2021,,,^ guǎ fu$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),寡妇;寡婦
 mand1415-2-770-1,,mand1415,2-770,guānfū,guānfū,k w a n ⁵⁵ + f u ⁵⁵,,yuhsiaojung2021,,,^ guān fū$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),鳏夫;鰥夫
 mand1415-2-810-1,,mand1415,2-810,qīnqi,qīnqi,tɕʰ i n ⁵⁵ + tɕʰ ⁰,general,yuhsiaojung2021,,,^ qīn qi$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),亲戚;親戚
@@ -189,8 +189,8 @@ mand1415-3-320-1,,mand1415,3-320,gōngzhū,gōngzhū,k ʊ ŋ ⁵⁵ + ʈʂ u �
 mand1415-3-340-1,,mand1415,3-340,mǔzhū,mǔzhū,m u ²¹⁴ + ʈʂ u ⁵⁵,,yuhsiaojung2021,,,^ mǔ zhū$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),母猪;母豬
 mand1415-3-350-1,,mand1415,3-350,zhū,zhū,ʈʂ u ⁵⁵,,yuhsiaojung2021,,,^ zhū$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),猪;豬
 mand1415-3-360-1,,mand1415,3-360,shānyáng,shānyáng,ʂ a n ⁵⁵ + j a ŋ ³⁵,,yuhsiaojung2021,,,^ shān yáng$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),山羊;山羊
-mand1415-3-370-1,,mand1415,3-370,gōng shānyáng,gōng shānyáng,k ʊ ŋ ⁵⁵ + + ʂ a n ⁵⁵ + j a ŋ ³⁵,,yuhsiaojung2021,,,^ gōng + shān yáng$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),公山羊;公山羊
-mand1415-3-380-1,,mand1415,3-380,xiǎo shānyáng,xiǎo shānyáng,ɕ j au ²¹⁴ + + ʂ a n ⁵⁵ + j a ŋ ³⁵,,yuhsiaojung2021,,,^ xiǎo + shān yáng$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),小山羊;小山羊
+mand1415-3-370-1,,mand1415,3-370,gōng shānyáng,gōng_shānyáng,k ʊ ŋ ⁵⁵ + ʂ a n ⁵⁵ + j a ŋ ³⁵,,yuhsiaojung2021,,,^ gōng_ shān yáng$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),公山羊;公山羊
+mand1415-3-380-1,,mand1415,3-380,xiǎo shānyáng,xiǎo_shānyáng,ɕ j au ²¹⁴ + ʂ a n ⁵⁵ + j a ŋ ³⁵,,yuhsiaojung2021,,,^ xiǎo_ shān yáng$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),小山羊;小山羊
 mand1415-3-410-1,,mand1415,3-410,mǎ,mǎ,m a ²¹⁴,,yuhsiaojung2021,,,^ mǎ$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),马;馬
 mand1415-3-420-1,,mand1415,3-420,gōngmǎ,gōngmǎ,k ʊ ŋ ⁵⁵ + m a ²¹⁴,,yuhsiaojung2021,,,^ gōng mǎ$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),公马;公馬
 mand1415-3-440-1,,mand1415,3-440,mǔmǎ,mǔmǎ,m u ²¹⁴ + m a ²¹⁴,,yuhsiaojung2021,,,^ mǔ mǎ$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),母马;母馬
@@ -205,7 +205,7 @@ mand1415-3-560-1,,mand1415,3-560,é,é,ə ³⁵,,yuhsiaojung2021,,,^ é$,defaul
 mand1415-3-570-1,,mand1415,3-570,yā,yā,j a ⁵⁵,,yuhsiaojung2021,,,^ yā$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),鸭;鴨
 mand1415-3-580-1,,mand1415,3-580,wō,wō,w ɔ ⁵⁵,,yuhsiaojung2021,,,^ wō$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),窝;窩
 mand1415-3-581-1,,mand1415,3-581,niǎo,niǎo,n j au ²¹⁴,,yuhsiaojung2021,,,^ niǎo$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),鸟;鳥
-mand1415-3-582-1,,mand1415,3-582,hǎi’ōu,hǎi’ōu,x ai ²¹⁴ + <<’>> ɔu ⁵⁵,,yuhsiaojung2021,,,^ hǎi <’> ōu$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),海鸥;海鷗
+mand1415-3-582-1,,mand1415,3-582,hǎi’ōu,hǎi_ōu,x ai ²¹⁴ + ɔu ⁵⁵,,yuhsiaojung2021,,,^ hǎi_ ōu$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),海鸥;海鷗
 mand1415-3-583-1,,mand1415,3-583,lù,lù,l u ⁵¹,,yuhsiaojung2021,,,^ lù$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),鹭;鷺
 mand1415-3-584-1,,mand1415,3-584,yīng,yīng,j i ŋ ⁵⁵,,yuhsiaojung2021,,,^ yīng$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),鹰;鷹
 mand1415-3-585-1,,mand1415,3-585,yīng,yīng,j i ŋ ⁵⁵,different species,yuhsiaojung2021,,,^ yīng$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),鹰;鷹
@@ -241,7 +241,7 @@ mand1415-3-770-1,,mand1415,3-770,dàxiàng,dàxiàng,t a ⁵¹ + ɕ j a ŋ ⁵
 mand1415-3-780-1,,mand1415,3-780,luòtuo,luòtuo,l w ɔ ⁵¹ + tʰ w ɔ ⁰,,yuhsiaojung2021,,,^ luò tuo$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),骆驼;駱駝
 mand1415-3-810-1,,mand1415,3-810,kūnchóng,kūnchóng,kʰ ʊ n ⁵⁵ + ʈʂ ʊ ŋ ³⁵,,yuhsiaojung2021,,,^ kūn chóng$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),昆虫;昆蟲
 mand1415-3-811-1,,mand1415,3-811,shīzi,shīzi,ʂ ʅ ⁵⁵ + ts ɿ ⁰,Traditional also 虱子,yuhsiaojung2021,,,^ shī zi$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),虱子;蝨子
-mand1415-3-812-1,,mand1415,3-812,shīzi luǎn,shīzi luǎn,ʂ ʅ ⁵⁵ + ts ɿ ⁰ + + l w a n ²¹⁴,Traditional also 虱子卵,yuhsiaojung2021,,,^ shī zi + luǎn$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),虱子卵;蝨子卵
+mand1415-3-812-1,,mand1415,3-812,shīzi luǎn,shīzi_luǎn,ʂ ʅ ⁵⁵ + ts ɿ ⁰ + l w a n ²¹⁴,Traditional also 虱子卵,yuhsiaojung2021,,,^ shī zi_ luǎn$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),虱子卵;蝨子卵
 mand1415-3-813-1,,mand1415,3-813,tiàozao,tiàozao,tʰ j au ⁵¹ + ts au ⁰,,yuhsiaojung2021,,,^ tiào zao$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),跳蚤;跳蚤
 mand1415-3-814-1,,mand1415,3-814,wúgōng,wúgōng,w u ³⁵ + k ʊ ŋ ⁵⁵,,yuhsiaojung2021,,,^ wú gōng$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),蜈蚣;蜈蚣
 mand1415-3-815-1,,mand1415,3-815,xiēzi,xiēzi,ɕ j ə ⁵⁵ + ts ɿ ⁰,,yuhsiaojung2021,,,^ xiē zi$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),蝎子;蠍子
@@ -361,26 +361,26 @@ mand1415-4-470-1,,mand1415,4-470,zǐgōng,zǐgōng,ts ɿ ²¹⁴ + k ʊ ŋ ⁵
 mand1415-4-490-1,,mand1415,4-490,gāowán,gāowán,k au ⁵⁵ + w a n ³⁵,,yuhsiaojung2021,,,^ gāo wán$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),睾丸;睾丸
 mand1415-4-492-1,,mand1415,4-492,yīnjīnɡ,yīnjīnɡ,j i n ⁵⁵ + tɕ i ŋ ⁵⁵,,yuhsiaojung2021,,,^ yīn jīnɡ$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),阴茎;陰莖
 mand1415-4-510-1,,mand1415,4-510,hūxī,hūxī,x u ⁵⁵ + ɕ i ⁵⁵,,yuhsiaojung2021,,,^ hū xī$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),呼吸;呼吸
-mand1415-4-520-1,,mand1415,4-520,dǎ hāqian,dǎ hāqian,t a ²¹⁴ + + x a ⁵⁵ + tɕʰ j ɛ n ⁰,,yuhsiaojung2021,,,^ dǎ + hā qian$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),打哈欠;打哈欠
-mand1415-4-521-1,,mand1415,4-521,dǎ gé,dǎ gé,t a ²¹⁴ + + k ə ³⁵,,yuhsiaojung2021,,,^ dǎ + gé$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),打嗝;打嗝
+mand1415-4-520-1,,mand1415,4-520,dǎ hāqian,dǎ_hāqian,t a ²¹⁴ + x a ⁵⁵ + tɕʰ j ɛ n ⁰,,yuhsiaojung2021,,,^ dǎ_ hā qian$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),打哈欠;打哈欠
+mand1415-4-521-1,,mand1415,4-521,dǎ gé,dǎ_gé,t a ²¹⁴ + k ə ³⁵,,yuhsiaojung2021,,,^ dǎ_ gé$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),打嗝;打嗝
 mand1415-4-530-1,,mand1415,4-530,késou,késou,kʰ ə ³⁵ + s ɔu ⁰,,yuhsiaojung2021,,,^ késou $,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),咳嗽;咳嗽
-mand1415-4-540-1,,mand1415,4-540,dǎ pēntì,dǎ pēntì,t a ²¹⁴ + + pʰ ə n ⁵⁵ + tʰ i ⁵¹,,yuhsiaojung2021,,,^ dǎ + pēn tì$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),打喷嚏;打噴嚏
-mand1415-4-550-1,,mand1415,4-550,chū hàn,chū hàn,ʈʂ u ⁵⁵ + + x a n ⁵¹,,yuhsiaojung2021,,,^ chū + hàn$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),出汗;出汗
-mand1415-4-560-1,,mand1415,4-560,tǔ kǒushuǐ,tǔ kǒushuǐ,tʰ u ²¹⁴ + + kʰ ɔu ²¹⁴ + ʂ w əi ²¹⁴,,yuhsiaojung2021,,,^ tǔ + kǒu shuǐ$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),吐口水;吐口水
+mand1415-4-540-1,,mand1415,4-540,dǎ pēntì,dǎ_pēntì,t a ²¹⁴ + pʰ ə n ⁵⁵ + tʰ i ⁵¹,,yuhsiaojung2021,,,^ dǎ_ pēn tì$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),打喷嚏;打噴嚏
+mand1415-4-550-1,,mand1415,4-550,chū hàn,chū_hàn,ʈʂ u ⁵⁵ + x a n ⁵¹,,yuhsiaojung2021,,,^ chū_ hàn$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),出汗;出汗
+mand1415-4-560-1,,mand1415,4-560,tǔ kǒushuǐ,tǔ_kǒushuǐ,tʰ u ²¹⁴ + kʰ ɔu ²¹⁴ + ʂ w əi ²¹⁴,,yuhsiaojung2021,,,^ tǔ_ kǒu shuǐ$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),吐口水;吐口水
 mand1415-4-570-1,,mand1415,4-570,ǒutù,ǒutù,ɔu ²¹⁴ + tʰ u ⁵¹,,yuhsiaojung2021,,,^ ǒu tù$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),呕吐;嘔吐
 mand1415-4-580-1,,mand1415,4-580,yǎo,yǎo,j au ²¹⁴,,yuhsiaojung2021,,,^ yǎo$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),咬;咬
 mand1415-4-590-1,,mand1415,4-590,tiǎn,tiǎn,tʰ j ɛ n ²¹⁴,,yuhsiaojung2021,,,^ tiǎn$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),舔;舔
-mand1415-4-591-1,,mand1415,4-591,liú kǒushuǐ,liú kǒushuǐ,l j ɔu ³⁵ + + kʰ ɔu ²¹⁴ + ʂ w əi ²¹⁴,,yuhsiaojung2021,,,^ liú + kǒu shuǐ$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),流口水;流口水
-mand1415-4-610-1,,mand1415,4-610,shuì jiào,shuì jiào,ʂ w əi ⁵¹ + + tɕ j au ⁵¹,,yuhsiaojung2021,,,^ shuì + jiào$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),睡觉;睡覺
+mand1415-4-591-1,,mand1415,4-591,liú kǒushuǐ,liú_kǒushuǐ,l j ɔu ³⁵ + kʰ ɔu ²¹⁴ + ʂ w əi ²¹⁴,,yuhsiaojung2021,,,^ liú_ kǒu shuǐ$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),流口水;流口水
+mand1415-4-610-1,,mand1415,4-610,shuì jiào,shuì_jiào,ʂ w əi ⁵¹ + tɕ j au ⁵¹,,yuhsiaojung2021,,,^ shuì_ jiào$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),睡觉;睡覺
 mand1415-4-612-1,,mand1415,4-612,dǎhān,dǎhān,t a ²¹⁴ + x a n ⁵⁵,,yuhsiaojung2021,,,^ dǎ hān$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),打鼾;打鼾
-mand1415-4-620-1,,mand1415,4-620,zuò mèng,zuò mèng,ts w ɔ ⁵¹ + + m ə ŋ ⁵¹,,yuhsiaojung2021,,,^ zuò + mèng$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),做梦;做夢
+mand1415-4-620-1,,mand1415,4-620,zuò mèng,zuò_mèng,ts w ɔ ⁵¹ + m ə ŋ ⁵¹,,yuhsiaojung2021,,,^ zuò_ mèng$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),做梦;做夢
 mand1415-4-630-1,,mand1415,4-630,jiàoxǐng,jiàoxǐng,tɕ j au ⁵¹ + ɕ i ŋ ²¹⁴,,yuhsiaojung2021,,,^ jiào xǐng$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),叫醒;叫醒
 mand1415-4-640-1,,mand1415,4-640,páiqì,páiqì,pʰ ai ³⁵ + tɕʰ i ⁵¹,,yuhsiaojung2021,,,^ pái qì$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),排气;排氣
 mand1415-4-650-1,,mand1415,4-650,páiniào,páiniào,pʰ ai ³⁵ + n j au ⁵¹,,yuhsiaojung2021,,,^ pái niào$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),排尿;排尿
 mand1415-4-660-1,,mand1415,4-660,páibiàn,páibiàn,pʰ ai ³⁵ + p j ɛ n ⁵¹,,yuhsiaojung2021,,,^ pái biàn$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),排便;排便
 mand1415-4-670-1,,mand1415,4-670,xìngjiāo,xìngjiāo,ɕ i ŋ ⁵¹ + tɕ j au ⁵⁵,,yuhsiaojung2021,,,^ xìng jiāo$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),性交;性交
 mand1415-4-680-1,,mand1415,4-680,chàndǒu,chàndǒu,ʈʂʰ a n ⁵¹ + t ɔu ²¹⁴,,yuhsiaojung2021,,,^ chàn dǒu$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),颤抖;顫抖
-mand1415-4-690-1,,mand1415,4-690,xǐ zǎo,xǐ zǎo,ɕ i ²¹⁴ + + ts au ²¹⁴,,yuhsiaojung2021,,,^ xǐ + zǎo$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),洗澡;洗澡
+mand1415-4-690-1,,mand1415,4-690,xǐ zǎo,xǐ_zǎo,ɕ i ²¹⁴ + ts au ²¹⁴,,yuhsiaojung2021,,,^ xǐ_ zǎo$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),洗澡;洗澡
 mand1415-4-720-1,,mand1415,4-720,chūshēnɡ,chūshēnɡ,ʈʂ u ⁵⁵ + ʂ ə ŋ ⁵⁵,,yuhsiaojung2021,,,^ chū shēnɡ$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),出生;出生
 mand1415-4-730-1,,mand1415,4-730,huáiyùn,huáiyùn,x w ai ³⁵ + ɥ y n ⁵¹,,yuhsiaojung2021,,,^ huái yùn$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),怀孕;懷孕
 mand1415-4-732-1,,mand1415,4-732,huáiyùn,huáiyùn,x w ai ³⁵ + ɥ y n ⁵¹,,yuhsiaojung2021,,,^ huái yùn$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),怀孕;懷孕
@@ -431,10 +431,10 @@ mand1415-5-120-1,,mand1415,5-120,shíwù,shíwù,ʂ ʅ ³⁵ + w u ⁵¹,,yuhs
 mand1415-5-121-1,,mand1415,5-121,shāoshú,shāoshú,ʂ au ⁵⁵ + ʂ u ³⁵,,yuhsiaojung2021,,,^ shāo shú$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),烧熟;燒熟
 mand1415-5-122-1,,mand1415,5-122,shēng,shēng,ʂ ə ŋ ⁵⁵,,yuhsiaojung2021,,,^ shēng$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),生;生
 mand1415-5-123-1,,mand1415,5-123,chéngshú,chéngshú,ʈʂ ə ŋ ³⁵ + ʂ u ³⁵,,yuhsiaojung2021,,,^ chéng shú$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),成熟;成熟
-mand1415-5-124-1,,mand1415,5-124,wèi chéngshú,wèi chéngshú,w əi ⁵¹ + + ʈʂ ə ŋ ³⁵ + ʂ u ³⁵,,yuhsiaojung2021,,,^ wèi + chéng shú$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),未成熟;未成熟
+mand1415-5-124-1,,mand1415,5-124,wèi chéngshú,wèi_chéngshú,w əi ⁵¹ + ʈʂ ə ŋ ³⁵ + ʂ u ³⁵,,yuhsiaojung2021,,,^ wèi_ chéng shú$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),未成熟;未成熟
 mand1415-5-125-1,,mand1415,5-125,fǔlàn,fǔlàn,f u ²¹⁴ + l a n ⁵¹,,yuhsiaojung2021,,,^ fǔ làn$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),腐烂;腐爛
 mand1415-5-130-1,,mand1415,5-130,hē,hē,x ə ⁵⁵,,yuhsiaojung2021,,,^ hē$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),喝;喝
-mand1415-5-140-1,,mand1415,5-140,jī'è,jī'è,tɕ i ⁵⁵ + <<'>> ə ⁵¹,,yuhsiaojung2021,,,^ jī <'> è$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),饥饿;饑餓
+mand1415-5-140-1,,mand1415,5-140,jī'è,jī_è,tɕ i ⁵⁵ + ə ⁵¹,,yuhsiaojung2021,,,^ jī_ è$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),饥饿;饑餓
 mand1415-5-141-1,,mand1415,5-141,jīhuāng,jīhuāng,tɕ i ⁵⁵ + x w a ŋ ⁵⁵,,yuhsiaojung2021,,,^ jī huāng$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),饥荒;饑荒
 mand1415-5-150-1,,mand1415,5-150,kǒukě,kǒukě,kʰ ɔu ²¹⁴ + kʰ ə ²¹⁴,,yuhsiaojung2021,,,^ kǒu kě$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),口渴;口渴
 mand1415-5-160-1,,mand1415,5-160,xī,xī,ɕ i ⁵⁵,,yuhsiaojung2021,,,^ xī$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),吸;吸
@@ -478,11 +478,11 @@ mand1415-5-480-1,,mand1415,5-480,guā,guā,k w a ⁵⁵,,yuhsiaojung2021,,,^ gu
 mand1415-5-490-1,,mand1415,5-490,jiǎodòng,jiǎodòng,tɕ j au ²¹⁴ + t ʊ ŋ ⁵¹,stir,yuhsiaojung2021,,,^ jiǎo dòng$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),搅动;攪動
 mand1415-5-490-2,,mand1415,5-490,hùnhé,hùnhé,x ʊ n ⁵¹ + x ə ³⁵,mix,yuhsiaojung2021,,,^ hùn hé$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),混合;混合
 mand1415-5-510-1,,mand1415,5-510,miànbāo,miànbāo,m j ɛ n ⁵¹ + p au ⁵⁵,,yuhsiaojung2021,,,^ miàn bāo$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),面包;麵包
-mand1415-5-530-1,,mand1415,5-530,shēng miàntuán,shēng miàntuán,ʂ ə ŋ ⁵⁵ + + m j ɛ n ⁵¹ + tʰ w a n ³⁵,,yuhsiaojung2021,,,^ shēng + miàn tuán$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),生面团;生麵團
+mand1415-5-530-1,,mand1415,5-530,shēng miàntuán,shēng_miàntuán,ʂ ə ŋ ⁵⁵ + m j ɛ n ⁵¹ + tʰ w a n ³⁵,,yuhsiaojung2021,,,^ shēng_ miàn tuán$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),生面团;生麵團
 mand1415-5-540-1,,mand1415,5-540,róu,róu,ʐ ɔu ³⁵,,yuhsiaojung2021,,,^ róu$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),揉;揉
 mand1415-5-550-1,,mand1415,5-550,miànfěn,miànfěn,m j ɛ n ⁵¹ + f ə n ²¹⁴,,yuhsiaojung2021,,,^ miàn fěn$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),面粉;麵粉
-mand1415-5-560-1,,mand1415,5-560,yā suì,yā suì,j a ⁵⁵ + + s w əi ⁵¹,crush,yuhsiaojung2021,,,^ yā + suì$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),压碎;壓碎
-mand1415-5-560-2,,mand1415,5-560,mó suì,mó suì,m w ɔ ³⁵ + + s w əi ⁵¹,grind,yuhsiaojung2021,,,^ mó + suì$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),磨碎;磨碎
+mand1415-5-560-1,,mand1415,5-560,yā suì,yā_suì,j a ⁵⁵ + s w əi ⁵¹,crush,yuhsiaojung2021,,,^ yā_ suì$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),压碎;壓碎
+mand1415-5-560-2,,mand1415,5-560,mó suì,mó_suì,m w ɔ ³⁵ + s w əi ⁵¹,grind,yuhsiaojung2021,,,^ mó_ suì$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),磨碎;磨碎
 mand1415-5-570-1,,mand1415,5-570,mòfáng,mòfáng,m w ɔ ⁵¹ + f a ŋ ³⁵,,yuhsiaojung2021,,,^ mò fáng$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),磨坊;磨坊
 mand1415-5-580-1,,mand1415,5-580,yánbō,yánbō,j a n ³⁵ + p w o ⁵⁵,,yuhsiaojung2021,,,^ yán bō$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),研钵;研缽
 mand1415-5-590-1,,mand1415,5-590,chǔ,chǔ,ʈʂ u ²¹⁴,,yuhsiaojung2021,,,^ chǔ$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),杵;杵
@@ -507,7 +507,7 @@ mand1415-5-821-1,,mand1415,5-821,làjiāo,làjiāo,l a ⁵¹ + tɕ j au ⁵⁵
 mand1415-5-840-1,,mand1415,5-840,fēngmì,fēngmì,f ə ŋ ⁵⁵ + m i ⁵¹,,yuhsiaojung2021,,,^ fēng mì$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),蜂蜜;蜂蜜
 mand1415-5-850-1,,mand1415,5-850,táng,táng,tʰ a ŋ ³⁵,,yuhsiaojung2021,,,^ táng$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),糖;糖
 mand1415-5-860-1,,mand1415,5-860,nǎi,nǎi,n ai ²¹⁴,,yuhsiaojung2021,,,^ nǎi$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),奶;奶
-mand1415-5-870-1,,mand1415,5-870,jǐ nǎi,jǐ nǎi,tɕ i ²¹⁴ + + n ai ²¹⁴,,yuhsiaojung2021,,,^ jǐ + nǎi$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),挤奶;擠奶
+mand1415-5-870-1,,mand1415,5-870,jǐ nǎi,jǐ_nǎi,tɕ i ²¹⁴ + n ai ²¹⁴,,yuhsiaojung2021,,,^ jǐ_ nǎi$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),挤奶;擠奶
 mand1415-5-880-1,,mand1415,5-880,nǎilào,nǎilào,n ai ²¹⁴ + l au ⁵¹,,yuhsiaojung2021,,,^ nǎi lào$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),奶酪;奶酪
 mand1415-5-890-1,,mand1415,5-890,huángyóu,huángyóu,x w a ŋ ³⁵ + j ɔu ³⁵,,yuhsiaojung2021,,,^ huáng yóu$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),黄油;黃油
 mand1415-5-900-1,,mand1415,5-900,yǐnliào,yǐnliào,j i n ²¹⁴ + l j au ⁵¹,,yuhsiaojung2021,,,^ yǐn liào$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),饮料;飲料
@@ -580,12 +580,12 @@ mand1415-6-960-1,,mand1415,6-960,jìngzi,jìngzi,tɕ i ŋ ⁵¹ + ts ɿ ⁰,,yu
 mand1415-7-110-1,,mand1415,7-110,zhù,zhù,ʈʂ u ⁵¹,,yuhsiaojung2021,,,^ zhù$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),住;住
 mand1415-7-120-1,,mand1415,7-120,fángzi,fángzi,f a ŋ ³⁵ + ts ɿ ⁰,,yuhsiaojung2021,,,^ fáng zi$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),房子;房子
 mand1415-7-130-1,,mand1415,7-130,xiǎowū,xiǎowū,ɕ j au ²¹⁴ + w u ⁵⁵,,yuhsiaojung2021,,,^ xiǎo wū$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),小屋;小屋
-mand1415-7-131-1,,mand1415,7-131,huāyuán yángfáng,huāyuán yángfáng,x w a ⁵⁵ + ɥ ɛ n ³⁵ + + j a ŋ ³⁵ + f a ŋ ³⁵,,yuhsiaojung2021,,,^ huā yuán + yáng fáng$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),花园洋房;花園洋房
+mand1415-7-131-1,,mand1415,7-131,huāyuán yángfáng,huāyuán_yángfáng,x w a ⁵⁵ + ɥ ɛ n ³⁵ + j a ŋ ³⁵ + f a ŋ ³⁵,,yuhsiaojung2021,,,^ huā yuán_ yáng fáng$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),花园洋房;花園洋房
 mand1415-7-140-1,,mand1415,7-140,zhàngpeng,zhàngpeng,ʈʂ a ŋ ⁵¹ + pʰ ə ŋ ⁰,,yuhsiaojung2021,,,^ zhàng peng$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),帐篷;帳篷
 mand1415-7-150-1,,mand1415,7-150,tíngyuàn,tíngyuàn,tʰ i ŋ ³⁵ + ɥ ɛ n ⁵¹,,yuhsiaojung2021,,,^ tíng yuàn$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),庭院;庭院
-mand1415-7-160-1,,mand1415,7-160,nánzǐ zhuānyòng chǎngsuǒ,nánzǐ zhuānyòng chǎngsuǒ,n a n ³⁵ + ts ɿ ²¹⁴ + + ʈʂ w a n ⁵⁵ + j ʊ ŋ ⁵¹ + + ʈʂ a ŋ ²¹⁴ + s w ɔ ²¹⁴,,yuhsiaojung2021,,,^ nán zǐ + zhuān yòng + chǎng suǒ$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),男子专用场所;男子專用場所
+mand1415-7-160-1,,mand1415,7-160,nánzǐ zhuānyòng chǎngsuǒ,nánzǐ_zhuānyòng_chǎngsuǒ,n a n ³⁵ + ts ɿ ²¹⁴ + ʈʂ w a n ⁵⁵ + j ʊ ŋ ⁵¹ + ʈʂ a ŋ ²¹⁴ + s w ɔ ²¹⁴,,yuhsiaojung2021,,,^ nán zǐ_ zhuān yòng_ chǎng suǒ$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),男子专用场所;男子專用場所
 mand1415-7-170-1,,mand1415,7-170,huǒfáng,huǒfáng,x w ɔ ²¹⁴ + f a ŋ ³⁵,,yuhsiaojung2021,,,^ huǒ fáng$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),伙房;伙房
-mand1415-7-180-1,,mand1415,7-180,huìyì shì,huìyì shì,x w əi ⁵¹ + j i ⁵¹ + + ʂ ʅ ⁵¹,,yuhsiaojung2021,,,^ huì yì + shì$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),会议室;會議室
+mand1415-7-180-1,,mand1415,7-180,huìyì shì,huìyì_shì,x w əi ⁵¹ + j i ⁵¹ + ʂ ʅ ⁵¹,,yuhsiaojung2021,,,^ huì yì_ shì$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),会议室;會議室
 mand1415-7-210-1,,mand1415,7-210,fángjiān,fángjiān,f a ŋ ³⁵ + tɕ j ɛ n ⁵⁵,,yuhsiaojung2021,,,^ fáng jiān$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),房间;房間
 mand1415-7-220-1,,mand1415,7-220,mén,mén,m ə n ³⁵,,yuhsiaojung2021,,,^ mén$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),门;門
 mand1415-7-221-1,,mand1415,7-221,ménzhù,ménzhù,m ə n ³⁵ + ʈʂ u ⁵¹,,yuhsiaojung2021,,,^ mén zhù$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),门柱;門柱
@@ -610,7 +610,7 @@ mand1415-7-460-1,,mand1415,7-460,làzhú,làzhú,l a ⁵¹ + ʈʂ u ³⁵,,yuh
 mand1415-7-470-1,,mand1415,7-470,jiàzi,jiàzi,tɕ j a ⁵¹ + ts ɿ ⁰,,yuhsiaojung2021,,,^ jià zi$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),架子;架子
 mand1415-7-480-1,,mand1415,7-480,shuǐcáo,shuǐcáo,ʂ w əi ²¹⁴ + tsʰ au ³⁵,,yuhsiaojung2021,,,^ shuǐ cáo$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),水槽;水槽
 mand1415-7-510-1,,mand1415,7-510,wūdǐng,wūdǐng,w u ⁵⁵ + t i ŋ ²¹⁴,,yuhsiaojung2021,,,^ wū dǐng$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),屋顶;屋頂
-mand1415-7-520-1,,mand1415,7-520,máocǎo wūdǐng,máocǎo wūdǐng,m au ³⁵ + tsʰ au ²¹⁴ + + w u ⁵⁵ + t i ŋ ²¹⁴,,yuhsiaojung2021,,,^ máo cǎo + wū dǐng$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),茅草屋顶;茅草屋頂
+mand1415-7-520-1,,mand1415,7-520,máocǎo wūdǐng,máocǎo_wūdǐng,m au ³⁵ + tsʰ au ²¹⁴ + w u ⁵⁵ + t i ŋ ²¹⁴,,yuhsiaojung2021,,,^ máo cǎo_ wū dǐng$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),茅草屋顶;茅草屋頂
 mand1415-7-530-1,,mand1415,7-530,héngliáng,héngliáng,x ə ŋ ³⁵ + l j a ŋ ³⁵,,yuhsiaojung2021,,,^ héng liáng$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),横梁;橫梁
 mand1415-7-540-1,,mand1415,7-540,chuán,chuán,ʈʂ w a n ³⁵,,yuhsiaojung2021,,,^ chuán$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),椽;椽
 mand1415-7-550-1,,mand1415,7-550,liáng,liáng,l j a ŋ ³⁵,,yuhsiaojung2021,,,^ liáng$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),梁;梁
@@ -673,7 +673,7 @@ mand1415-8-690-1,,mand1415,8-690,xīyān,xīyān,ɕ i ⁵⁵ + j a n ⁵⁵,,y
 mand1415-8-691-1,,mand1415,8-691,yāndǒu,yāndǒu,j a n ⁵⁵ + t ɔu ²¹⁴,,yuhsiaojung2021,,,^ yān dǒu$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),烟斗;煙斗
 mand1415-8-720-1,,mand1415,8-720,shùzhuāng,shùzhuāng,ʂ u ⁵¹ + ʈʂ w a ŋ ⁵⁵,,yuhsiaojung2021,,,^ shù zhuāng$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),树桩;樹樁
 mand1415-8-730-1,,mand1415,8-730,shùgàn,shùgàn,ʂ u ⁵¹ + k a n ⁵¹,,yuhsiaojung2021,,,^ shù gàn$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),树干;樹幹
-mand1415-8-740-1,,mand1415,8-740,fēnchà shùzhī,fēnchà shùzhī,f ə n ⁵⁵ + ʈʂʰ a ⁵¹ + + ʂ u ⁵¹ + ʈʂ ʅ ⁵⁵,,yuhsiaojung2021,,,^ fēn chà + shù zhī$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),分叉树枝;分叉樹枝
+mand1415-8-740-1,,mand1415,8-740,fēnchà shùzhī,fēnchà_shùzhī,f ə n ⁵⁵ + ʈʂʰ a ⁵¹ + ʂ u ⁵¹ + ʈʂ ʅ ⁵⁵,,yuhsiaojung2021,,,^ fēn chà_ shù zhī$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),分叉树枝;分叉樹枝
 mand1415-8-750-1,,mand1415,8-750,shùpí,shùpí,ʂ u ⁵¹ + pʰ i ³⁵,,yuhsiaojung2021,,,^ shù pí$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),树皮;樹皮
 mand1415-8-760-1,,mand1415,8-760,yè,yè,j ə ⁵¹,,yuhsiaojung2021,,,^ yè$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),液;液
 mand1415-8-810-1,,mand1415,8-810,zōnglǘshù,zōnglǘshù,ts ʊ ŋ ⁵⁵ + l y ³⁵ ʂ u ⁵¹,,yuhsiaojung2021,,,^ zōng lǘ shù$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),棕榈树;棕櫚樹
@@ -696,7 +696,7 @@ mand1415-9-120-1,,mand1415,9-120,gōngzuò,gōngzuò,k ʊ ŋ ⁵⁵ + ts w ɔ 
 mand1415-9-140-1,,mand1415,9-140,wānqū,wānqū,w a n ⁵⁵ + tɕʰ y ⁵⁵,,yuhsiaojung2021,,,^ wān qū$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),弯曲;彎曲
 mand1415-9-150-1,,mand1415,9-150,zhédié,zhédié,ʈʂ ə ³⁵ + t j ə ³⁵,,yuhsiaojung2021,,,^ zhé dié$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),折叠;摺疊
 mand1415-9-160-1,,mand1415,9-160,kǔn,kǔn,kʰ ʊ n ²¹⁴,,yuhsiaojung2021,,,^ kǔn$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),捆;捆
-mand1415-9-161-1,,mand1415,9-161,jiě kāi,jiě kāi,tɕ j ə ²¹⁴ + + kʰ ai ⁵⁵,,yuhsiaojung2021,,,^ jiě + kāi$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),解开;解開
+mand1415-9-161-1,,mand1415,9-161,jiě kāi,jiě_kāi,tɕ j ə ²¹⁴ + kʰ ai ⁵⁵,,yuhsiaojung2021,,,^ jiě_ kāi$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),解开;解開
 mand1415-9-180-1,,mand1415,9-180,liàntiáo,liàntiáo,l j ɛ n ⁵¹ + tʰ j au ³⁵,,yuhsiaojung2021,,,^ liàn tiáo$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),链条;鏈條
 mand1415-9-190-1,,mand1415,9-190,shéngzi,shéngzi,ʂ ə ŋ ³⁵ + ts ɿ ⁰,,yuhsiaojung2021,,,^ shéng zi$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),绳子;繩子
 mand1415-9-192-1,,mand1415,9-192,jié,jié,tɕ j ə ³⁵,,yuhsiaojung2021,,,^ jié$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),结;結
@@ -704,7 +704,7 @@ mand1415-9-210-1,,mand1415,9-210,dǎ,dǎ,t a ²¹⁴,,yuhsiaojung2021,,,^ dǎ$,
 mand1415-9-211-1,,mand1415,9-211,dǎ,dǎ,t a ²¹⁴,,yuhsiaojung2021,,,^ dǎ$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),打;打
 mand1415-9-220-1,,mand1415,9-220,qiē,qiē,tɕʰ j ə ⁵⁵,slice,yuhsiaojung2021,,,^ qiē$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),切;切
 mand1415-9-220-2,,mand1415,9-220,gē,gē,k ə ⁵⁵,sever,yuhsiaojung2021,,,^ gē$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),割;割
-mand1415-9-221-1,,mand1415,9-221,kǎn dǎo,kǎn dǎo,kʰ a n ²¹⁴ + + t au ²¹⁴,,yuhsiaojung2021,,,^ kǎn + dǎo$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),砍倒;砍倒
+mand1415-9-221-1,,mand1415,9-221,kǎn dǎo,kǎn_dǎo,kʰ a n ²¹⁴ + t au ²¹⁴,,yuhsiaojung2021,,,^ kǎn_ dǎo$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),砍倒;砍倒
 mand1415-9-222-1,,mand1415,9-222,kǎn,kǎn,kʰ a n ²¹⁴,,yuhsiaojung2021,,,^ kǎn$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),砍;砍
 mand1415-9-223-1,,mand1415,9-223,cì,cì,tsʰ ɿ ⁵¹,,yuhsiaojung2021,,,^ cì$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),刺;刺
 mand1415-9-223-2,,mand1415,9-223,zhā,zhā,ʈʂ a ⁵⁵,,yuhsiaojung2021,,,^ zhā$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),扎;扎
@@ -712,18 +712,18 @@ mand1415-9-230-1,,mand1415,9-230,dāo,dāo,t au ⁵⁵,,yuhsiaojung2021,,,^ dā
 mand1415-9-240-1,,mand1415,9-240,jiǎndāo,jiǎndāo,tɕ j ɛ n ²¹⁴ + t au ⁵⁵,,yuhsiaojung2021,,,^ jiǎn dāo$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),剪刀;剪刀
 mand1415-9-250-1,,mand1415,9-250,fǔ,fǔ,f u ²¹⁴,,yuhsiaojung2021,,,^ fǔ$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),斧;斧
 mand1415-9-251-1,,mand1415,9-251,bēnzi,bēnzi,p ə n ⁵⁵ + ts ɿ ⁰,,yuhsiaojung2021,,,^ bēn zi$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),锛子;錛子
-mand1415-9-260-1,,mand1415,9-260,dǎ pò,dǎ pò,t a ²¹⁴ + + pʰ w ɔ ⁵¹,shatter,yuhsiaojung2021,,,^ dǎ + pò$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),打破;打破
-mand1415-9-260-2,,mand1415,9-260,nòng duàn,nòng duàn,n ʊ ŋ ⁵¹ + + t w a n ⁵¹,snap,yuhsiaojung2021,,,^ nòng + duàn$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),弄断;弄斷
+mand1415-9-260-1,,mand1415,9-260,dǎ pò,dǎ_pò,t a ²¹⁴ + pʰ w ɔ ⁵¹,shatter,yuhsiaojung2021,,,^ dǎ_ pò$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),打破;打破
+mand1415-9-260-2,,mand1415,9-260,nòng duàn,nòng_duàn,n ʊ ŋ ⁵¹ + t w a n ⁵¹,snap,yuhsiaojung2021,,,^ nòng_ duàn$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),弄断;弄斷
 mand1415-9-261-1,,mand1415,9-261,pòsuì,pòsuì,pʰ w ɔ ⁵¹ + s w əi ⁵¹,shattered,yuhsiaojung2021,,,^ pò suì$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),破碎;破碎
-mand1415-9-261-2,,mand1415,9-261,zhé duàn,zhé duàn,ʈʂ ə ³⁵ + + t w a n ⁵¹,snapped,yuhsiaojung2021,,,^ zhé + duàn$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),折断;折斷
-mand1415-9-270-1,,mand1415,9-270,qiē kāi,qiē kāi,tɕʰ j ə ⁵⁵ + + kʰ ai ⁵⁵,soft material,yuhsiaojung2021,,,^ qiē + kāi$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),切开;切開
+mand1415-9-261-2,,mand1415,9-261,zhé duàn,zhé_duàn,ʈʂ ə ³⁵ + t w a n ⁵¹,snapped,yuhsiaojung2021,,,^ zhé_ duàn$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),折断;折斷
+mand1415-9-270-1,,mand1415,9-270,qiē kāi,qiē_kāi,tɕʰ j ə ⁵⁵ + kʰ ai ⁵⁵,soft material,yuhsiaojung2021,,,^ qiē_ kāi$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),切开;切開
 mand1415-9-280-1,,mand1415,9-280,sī,sī,s ɿ ⁵⁵,,yuhsiaojung2021,,,^ sī$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),撕;撕
-mand1415-9-290-1,,mand1415,9-290,bō pí,bō pí,p w o ⁵⁵ + + pʰ i ³⁵,,yuhsiaojung2021,,,^ bō + pí$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),剥皮;剝皮
+mand1415-9-290-1,,mand1415,9-290,bō pí,bō_pí,p w o ⁵⁵ + pʰ i ³⁵,,yuhsiaojung2021,,,^ bō_ pí$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),剥皮;剝皮
 mand1415-9-310-1,,mand1415,9-310,cā,cā,tsʰ a ⁵⁵,,yuhsiaojung2021,,,^ cā$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),擦;擦
-mand1415-9-320-1,,mand1415,9-320,chēng dà,chēng dà,ʈʂ ə ŋ ⁵⁵ + + t a ⁵¹,,yuhsiaojung2021,,,^ chēng + dà$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),撑大;撐大
+mand1415-9-320-1,,mand1415,9-320,chēng dà,chēng_dà,ʈʂ ə ŋ ⁵⁵ + t a ⁵¹,,yuhsiaojung2021,,,^ chēng_ dà$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),撑大;撐大
 mand1415-9-330-1,,mand1415,9-330,lā,lā,l a ⁵⁵,,yuhsiaojung2021,,,^ lā$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),拉;拉
-mand1415-9-340-1,,mand1415,9-340,sàn kāi,sàn kāi,s a n ⁵¹ + + kʰ ai ⁵⁵,,yuhsiaojung2021,,,^ sàn + kāi$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),散开;散開
-mand1415-9-341-1,,mand1415,9-341,guà qǐ,guà qǐ,k w a ⁵¹ + + tɕʰ i ²¹⁴,,yuhsiaojung2021,,,^ guà + qǐ$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),挂起;掛起
+mand1415-9-340-1,,mand1415,9-340,sàn kāi,sàn_kāi,s a n ⁵¹ + kʰ ai ⁵⁵,,yuhsiaojung2021,,,^ sàn_ kāi$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),散开;散開
+mand1415-9-341-1,,mand1415,9-341,guà qǐ,guà_qǐ,k w a ⁵¹ + tɕʰ i ²¹⁴,,yuhsiaojung2021,,,^ guà_ qǐ$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),挂起;掛起
 mand1415-9-342-1,,mand1415,9-342,àn,àn,a n ⁵¹,,yuhsiaojung2021,,,^ àn$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),按;按
 mand1415-9-343-1,,mand1415,9-343,jǐ,jǐ,tɕ i ²¹⁴,squeeze,yuhsiaojung2021,,,^ jǐ$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),挤;擠
 mand1415-9-343-2,,mand1415,9-343,nǐng,nǐng,n i ŋ ²¹⁴,wring,yuhsiaojung2021,,,^ nǐng$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),拧;擰
@@ -734,8 +734,8 @@ mand1415-9-380-1,,mand1415,9-380,sàozhou,sàozhou,s au ⁵¹ + ʈʂ ɔu ⁰,,y
 mand1415-9-422-1,,mand1415,9-422,gōngjù,gōngjù,k ʊ ŋ ⁵⁵ + tɕ y ⁵¹,,yuhsiaojung2021,,,^ gōng jù$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),工具;工具
 mand1415-9-430-1,,mand1415,9-430,mùjiàng,mùjiàng,m u ⁵¹ + tɕ j a ŋ ⁵¹,,yuhsiaojung2021,,,^ mù jiàng$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),木匠;木匠
 mand1415-9-440-1,,mand1415,9-440,jiànzào,jiànzào,tɕ j ɛ n ⁵¹ + ts au ⁵¹,,yuhsiaojung2021,,,^ jiàn zào$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),建造;建造
-mand1415-9-460-1,,mand1415,9-460,zuān kǒng,zuān kǒng,ts w a n ⁵⁵ + + kʰ ʊ ŋ ²¹⁴,,yuhsiaojung2021,,,^ zuān + kǒng$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),钻孔;鑽孔
-mand1415-9-461-1,,mand1415,9-461,wā kōng,wā kōng,w a ⁵⁵ + + kʰ ʊ ŋ ⁵⁵,,yuhsiaojung2021,,,^ wā + kōng$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),挖空;挖空
+mand1415-9-460-1,,mand1415,9-460,zuān kǒng,zuān_kǒng,ts w a n ⁵⁵ + kʰ ʊ ŋ ²¹⁴,,yuhsiaojung2021,,,^ zuān_ kǒng$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),钻孔;鑽孔
+mand1415-9-461-1,,mand1415,9-461,wā kōng,wā_kōng,w a ⁵⁵ + kʰ ʊ ŋ ⁵⁵,,yuhsiaojung2021,,,^ wā_ kōng$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),挖空;挖空
 mand1415-9-480-1,,mand1415,9-480,jù,jù,tɕ y ⁵¹,,yuhsiaojung2021,,,^ jù$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),锯;鋸
 mand1415-9-490-1,,mand1415,9-490,chuízi,chuízi,ʈʂ w əi ³⁵ + ts ɿ ⁰,,yuhsiaojung2021,,,^ chuí zi$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),锤子;錘子
 mand1415-9-500-1,,mand1415,9-500,dīngzi,dīngzi,t i ŋ ⁵⁵ + ts ɿ ⁰,,yuhsiaojung2021,,,^ dīng zi$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),钉子;釘子
@@ -759,10 +759,10 @@ mand1415-9-750-1,,mand1415,9-750,zhī,zhī,ʈʂ ʅ ⁵⁵,"weave, knit",yuhsiao
 mand1415-9-750-2,,mand1415,9-750,biān,biān,p j ɛ n ⁵⁵,plait,yuhsiaojung2021,,,^ biān$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),编;編
 mand1415-9-760-1,,mand1415,9-760,lánzi,lánzi,l a n ³⁵ + ts ɿ ⁰,,yuhsiaojung2021,,,^ lán zi$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),篮子;籃子
 mand1415-9-770-1,,mand1415,9-770,diànzi,diànzi,t j ɛ n ⁵¹ + ts ɿ ⁰,,yuhsiaojung2021,,,^ diàn zi$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),垫子;墊子
-mand1415-9-771-1,,mand1415,9-771,xiǎo dìtǎn,xiǎo dìtǎn,ɕ j au ²¹⁴ + + t i ⁵¹ + tʰ a n ²¹⁴,,yuhsiaojung2021,,,^ xiǎo + dì tǎn$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),小地毯;小地毯
+mand1415-9-771-1,,mand1415,9-771,xiǎo dìtǎn,xiǎo_dìtǎn,ɕ j au ²¹⁴ + t i ⁵¹ + tʰ a n ²¹⁴,,yuhsiaojung2021,,,^ xiǎo_ dì tǎn$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),小地毯;小地毯
 mand1415-9-780-1,,mand1415,9-780,wǎngdōu,wǎngdōu,w a ŋ ²¹⁴ + t ɔu ⁵⁵,,yuhsiaojung2021,,,^ wǎng dōu$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),网兜;網兜
 mand1415-9-790-1,,mand1415,9-790,shànzi,shànzi,ʂ a n ⁵¹ + ts ɿ ⁰,,yuhsiaojung2021,,,^ shàn zi$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),扇子;扇子
-mand1415-9-791-1,,mand1415,9-791,shān fēng,shān fēng,ʂ a n ⁵⁵ + + f ə ŋ ⁵⁵,,yuhsiaojung2021,,,^ shān + fēng$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),扇风;扇風
+mand1415-9-791-1,,mand1415,9-791,shān fēng,shān_fēng,ʂ a n ⁵⁵ + f ə ŋ ⁵⁵,,yuhsiaojung2021,,,^ shān_ fēng$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),扇风;扇風
 mand1415-9-810-1,,mand1415,9-810,diāokè,diāokè,t j au ⁵⁵ + kʰ ə ⁵¹,,yuhsiaojung2021,,,^ diāo kè$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),雕刻;雕刻
 mand1415-9-820-1,,mand1415,9-820,diāokèjiā,diāokèjiā,t j au ⁵⁵ + kʰ ə ⁵¹ + tɕ j a ⁵⁵,,yuhsiaojung2021,,,^ diāo kè jiā$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),雕刻家;雕刻家
 mand1415-9-830-1,,mand1415,9-830,diāoxiàng,diāoxiàng,t j au ⁵⁵ + ɕ j a ŋ ⁵¹,,yuhsiaojung2021,,,^ diāo xiàng$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),雕像;雕像
@@ -770,49 +770,49 @@ mand1415-9-840-1,,mand1415,9-840,záozi,záozi,ts au ³⁵ + ts ɿ ⁰,,yuhsiao
 mand1415-9-880-1,,mand1415,9-880,yánliào,yánliào,j a n ³⁵ + l j au ⁵¹,for art,yuhsiaojung2021,,,^ yán liào$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),颜料;顏料
 mand1415-9-880-2,,mand1415,9-880,yóuqī,yóuqī,j ɔu ³⁵ + tɕʰ i ⁵⁵,for building,yuhsiaojung2021,,,^ yóu qī$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),油漆;油漆
 mand1415-9-890-1,,mand1415,9-890,huìhuà,huìhuà,x w əi ⁵¹ + x w a ⁵¹,for art,yuhsiaojung2021,,,^ huì huà$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),绘画;繪畫
-mand1415-9-890-2,,mand1415,9-890,shuā yóuqī,shuā yóuqī,ʂ w a ⁵⁵ + + j ɔu ³⁵ + tɕʰ i ⁵⁵,for building,yuhsiaojung2021,,,^ shuā + yóu qī$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),刷油漆;刷油漆
+mand1415-9-890-2,,mand1415,9-890,shuā yóuqī,shuā_yóuqī,ʂ w a ⁵⁵ + j ɔu ³⁵ + tɕʰ i ⁵⁵,for building,yuhsiaojung2021,,,^ shuā_ yóu qī$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),刷油漆;刷油漆
 mand1415-10-110-1,,mand1415,10-110,yídòng,yídòng,j i ³⁵ + t ʊ ŋ ⁵¹,,yuhsiaojung2021,,,^ yí dòng$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),移动;移動
-mand1415-10-120-1,,mand1415,10-120,fān shēn,fān shēn,f a n ⁵⁵ + + ʂ ə n ⁵⁵,,yuhsiaojung2021,,,^ fān + shēn$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),翻身;翻身
-mand1415-10-130-1,,mand1415,10-130,zhuǎn shēn,zhuǎn shēn,ʈʂ w a n ²¹⁴ + + ʂ ə n ⁵⁵,,yuhsiaojung2021,,,^ zhuǎn + shēn$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),转身;轉身
+mand1415-10-120-1,,mand1415,10-120,fān shēn,fān_shēn,f a n ⁵⁵ + ʂ ə n ⁵⁵,,yuhsiaojung2021,,,^ fān_ shēn$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),翻身;翻身
+mand1415-10-130-1,,mand1415,10-130,zhuǎn shēn,zhuǎn_shēn,ʈʂ w a n ²¹⁴ + ʂ ə n ⁵⁵,,yuhsiaojung2021,,,^ zhuǎn_ shēn$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),转身;轉身
 mand1415-10-140-1,,mand1415,10-140,chánrào,chánrào,ʈʂʰ a n ³⁵ + ʐ au ⁵¹,,yuhsiaojung2021,,,^ chán rào$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),缠绕;纏繞
 mand1415-10-150-1,,mand1415,10-150,gǔndòng,gǔndòng,k ʊ n ²¹⁴ + t ʊ ŋ ⁵¹,,yuhsiaojung2021,,,^ gǔn dòng$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),滚动;滾動
 mand1415-10-160-1,,mand1415,10-160,diào,diào,t j au ⁵¹,,yuhsiaojung2021,,,^ diào$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),掉;掉
 mand1415-10-170-1,,mand1415,10-170,zhuàndòng,zhuàndòng,ʈʂ w a n ⁵¹ + t ʊ ŋ ⁵¹,,yuhsiaojung2021,,,^ zhuàn dòng$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),转动;轉動
 mand1415-10-210-1,,mand1415,10-210,shàngshēng,shàngshēng,ʂ a ŋ ⁵¹ + ʂ ə ŋ ⁵⁵,,yuhsiaojung2021,,,^ shàng shēng$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),上升;上升
-mand1415-10-220-1,,mand1415,10-220,tái qǐ,tái qǐ,tʰ ai ³⁵ + + tɕʰ i ²¹⁴,,yuhsiaojung2021,,,^ tái + qǐ$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),抬起;擡起
-mand1415-10-230-1,,mand1415,10-230,luò xià,luò xià,l w ɔ ⁵¹ + + ɕ j a ⁵¹,,yuhsiaojung2021,,,^ luò + xià$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),落下;落下
-mand1415-10-240-1,,mand1415,10-240,dī xià,dī xià,t i ⁵⁵ + + ɕ j a ⁵¹,,yuhsiaojung2021,,,^ dī + xià$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),滴下;滴下
+mand1415-10-220-1,,mand1415,10-220,tái qǐ,tái_qǐ,tʰ ai ³⁵ + tɕʰ i ²¹⁴,,yuhsiaojung2021,,,^ tái_ qǐ$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),抬起;擡起
+mand1415-10-230-1,,mand1415,10-230,luò xià,luò_xià,l w ɔ ⁵¹ + ɕ j a ⁵¹,,yuhsiaojung2021,,,^ luò_ xià$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),落下;落下
+mand1415-10-240-1,,mand1415,10-240,dī xià,dī_xià,t i ⁵⁵ + ɕ j a ⁵¹,,yuhsiaojung2021,,,^ dī_ xià$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),滴下;滴下
 mand1415-10-250-1,,mand1415,10-250,tóu,tóu,tʰ ɔu ³⁵,at target,yuhsiaojung2021,,,^ tóu$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),投;投
 mand1415-10-250-2,,mand1415,10-250,rēng,rēng,ʐ ə ŋ ⁵⁵,without target,yuhsiaojung2021,,,^ rēng$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),扔;扔
-mand1415-10-252-1,,mand1415,10-252,jiē zhù,jiē zhù,tɕ j ə ⁵⁵ + + ʈʂ u ⁵¹,,yuhsiaojung2021,,,^ jiē + zhù$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),接住;接住
-mand1415-10-260-1,,mand1415,10-260,yáo dòng,yáo dòng,j au ³⁵ + + t ʊ ŋ ⁵¹,,yuhsiaojung2021,,,^ yáo + dòng$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),摇动;搖動
+mand1415-10-252-1,,mand1415,10-252,jiē zhù,jiē_zhù,tɕ j ə ⁵⁵ + ʈʂ u ⁵¹,,yuhsiaojung2021,,,^ jiē_ zhù$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),接住;接住
+mand1415-10-260-1,,mand1415,10-260,yáo dòng,yáo_dòng,j au ³⁵ + t ʊ ŋ ⁵¹,,yuhsiaojung2021,,,^ yáo_ dòng$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),摇动;搖動
 mand1415-10-320-1,,mand1415,10-320,liúdòng,liúdòng,l j ɔu ³⁵ + t ʊ ŋ ⁵¹,,yuhsiaojung2021,,,^ liú dòng$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),流动;流動
 mand1415-10-330-1,,mand1415,10-330,xiàchén,xiàchén,ɕ j a ⁵¹ + ʈʂ ə n ³⁵,,yuhsiaojung2021,,,^ xià chén$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),下沉;下沈
 mand1415-10-340-1,,mand1415,10-340,fú,fú,f u ³⁵,,yuhsiaojung2021,,,^ fú$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),浮;浮
-mand1415-10-350-1,,mand1415,10-350,yóu yǒng,yóu yǒng,j ɔu ³⁵ + + j ʊ ŋ ²¹⁴,,yuhsiaojung2021,,,^ yóu + yǒng$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),游泳;游泳
-mand1415-10-351-1,,mand1415,10-351,qián shuǐ,qián shuǐ,tɕʰ j ɛ n ³⁵ + + ʂ w əi ²¹⁴,,yuhsiaojung2021,,,^ qián + shuǐ$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),潜水;潛水
-mand1415-10-352-1,,mand1415,10-352,jiàn qǐ,jiàn qǐ,tɕ j ɛ n ⁵¹ + + tɕʰ i ²¹⁴,,yuhsiaojung2021,,,^ jiàn + qǐ$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),溅起;濺起
+mand1415-10-350-1,,mand1415,10-350,yóu yǒng,yóu_yǒng,j ɔu ³⁵ + j ʊ ŋ ²¹⁴,,yuhsiaojung2021,,,^ yóu_ yǒng$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),游泳;游泳
+mand1415-10-351-1,,mand1415,10-351,qián shuǐ,qián_shuǐ,tɕʰ j ɛ n ³⁵ + ʂ w əi ²¹⁴,,yuhsiaojung2021,,,^ qián_ shuǐ$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),潜水;潛水
+mand1415-10-352-1,,mand1415,10-352,jiàn qǐ,jiàn_qǐ,tɕ j ɛ n ⁵¹ + tɕʰ i ²¹⁴,,yuhsiaojung2021,,,^ jiàn_ qǐ$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),溅起;濺起
 mand1415-10-360-1,,mand1415,10-360,hángxíng,hángxíng,x a ŋ ³⁵ + ɕ i ŋ ³⁵,,yuhsiaojung2021,,,^ háng xíng$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),航行;航行
 mand1415-10-370-1,,mand1415,10-370,fēi,fēi,f əi ⁵⁵,,yuhsiaojung2021,,,^ fēi$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),飞;飛
 mand1415-10-380-1,,mand1415,10-380,chuī,chuī,ʈʂ w əi ⁵⁵,,yuhsiaojung2021,,,^ chuī$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),吹;吹
 mand1415-10-410-1,,mand1415,10-410,pá,pá,pʰ a ³⁵,,yuhsiaojung2021,,,^ pá$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),爬;爬
 mand1415-10-412-1,,mand1415,10-412,guì,guì,k w əi ⁵¹,,yuhsiaojung2021,,,^ guì$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),跪;跪
 mand1415-10-413-1,,mand1415,10-413,dūn,dūn,t ʊ n ⁵⁵,,yuhsiaojung2021,,,^ dūn$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),蹲;蹲
-mand1415-10-420-1,,mand1415,10-420,huá dòng,huá dòng,x w a ³⁵ + + t ʊ ŋ ⁵¹,,yuhsiaojung2021,,,^ huá + dòng$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),滑动;滑動
+mand1415-10-420-1,,mand1415,10-420,huá dòng,huá_dòng,x w a ³⁵ + t ʊ ŋ ⁵¹,,yuhsiaojung2021,,,^ huá_ dòng$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),滑动;滑動
 mand1415-10-430-1,,mand1415,10-430,tiào,tiào,tʰ j au ⁵¹,,yuhsiaojung2021,,,^ tiào$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),跳;跳
 mand1415-10-431-1,,mand1415,10-431,tī,tī,tʰ i ⁵⁵,,yuhsiaojung2021,,,^ tī$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),踢;踢
-mand1415-10-440-1,,mand1415,10-440,tiào wǔ,tiào wǔ,tʰ j au ⁵¹ + + w u ²¹⁴,,yuhsiaojung2021,,,^ tiào + wǔ$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),跳舞;跳舞
-mand1415-10-450-1,,mand1415,10-450,zǒu lù,zǒu lù,ts ɔu ²¹⁴ + + l u ⁵¹,,yuhsiaojung2021,,,^ zǒu + lù$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),走路;走路
+mand1415-10-440-1,,mand1415,10-440,tiào wǔ,tiào_wǔ,tʰ j au ⁵¹ + w u ²¹⁴,,yuhsiaojung2021,,,^ tiào_ wǔ$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),跳舞;跳舞
+mand1415-10-450-1,,mand1415,10-450,zǒu lù,zǒu_lù,ts ɔu ²¹⁴ + l u ⁵¹,,yuhsiaojung2021,,,^ zǒu_ lù$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),走路;走路
 mand1415-10-451-1,,mand1415,10-451,bǒxíng,bǒxíng,p w o ²¹⁴ + ɕ i ŋ ³⁵,,yuhsiaojung2021,,,^ bǒ xíng$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),跛行;跛行
 mand1415-10-460-1,,mand1415,10-460,pǎo,pǎo,pʰ au ²¹⁴,,yuhsiaojung2021,,,^ pǎo$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),跑;跑
 mand1415-10-470-1,,mand1415,10-470,qù,qù,tɕʰ y ⁵¹,,yuhsiaojung2021,,,^ qù$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),去;去
-mand1415-10-471-1,,mand1415,10-471,shàng qù,shàng qù,ʂ a ŋ ⁵¹ + + tɕʰ y ⁵¹,,yuhsiaojung2021,,,^ shàng + qù$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),上去;上去
+mand1415-10-471-1,,mand1415,10-471,shàng qù,shàng_qù,ʂ a ŋ ⁵¹ + tɕʰ y ⁵¹,,yuhsiaojung2021,,,^ shàng_ qù$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),上去;上去
 mand1415-10-472-1,,mand1415,10-472,pāndēng,pāndēng,pʰ a n ⁵⁵ + t ə ŋ ⁵⁵,,yuhsiaojung2021,,,^ pān dēng$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),攀登;攀登
-mand1415-10-473-1,,mand1415,10-473,xià qù,xià qù,ɕ j a ⁵¹ + + tɕʰ y ⁵¹,,yuhsiaojung2021,,,^ xià + qù$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),下去;下去
-mand1415-10-474-1,,mand1415,10-474,chū qù,chū qù,ʈʂ u ⁵⁵ + + tɕʰ y ⁵¹,,yuhsiaojung2021,,,^ chū + qù$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),出去;出去
+mand1415-10-473-1,,mand1415,10-473,xià qù,xià_qù,ɕ j a ⁵¹ + tɕʰ y ⁵¹,,yuhsiaojung2021,,,^ xià_ qù$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),下去;下去
+mand1415-10-474-1,,mand1415,10-474,chū qù,chū_qù,ʈʂ u ⁵⁵ + tɕʰ y ⁵¹,,yuhsiaojung2021,,,^ chū_ qù$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),出去;出去
 mand1415-10-480-1,,mand1415,10-480,lái,lái,l ai ³⁵,,yuhsiaojung2021,,,^ lái$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),来;來
-mand1415-10-481-1,,mand1415,10-481,huí lái,huí lái,x w əi ³⁵ + + l ai ³⁵,,yuhsiaojung2021,,,^ huí + lái$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),回来;回來
-mand1415-10-490-1,,mand1415,10-490,lí kāi,lí kāi,l i ³⁵ + + kʰ ai ⁵⁵,,yuhsiaojung2021,,,^ lí + kāi$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),离开;離開
+mand1415-10-481-1,,mand1415,10-481,huí lái,huí_lái,x w əi ³⁵ + l ai ³⁵,,yuhsiaojung2021,,,^ huí_ lái$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),回来;回來
+mand1415-10-490-1,,mand1415,10-490,lí kāi,lí_kāi,l i ³⁵ + kʰ ai ⁵⁵,,yuhsiaojung2021,,,^ lí_ kāi$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),离开;離開
 mand1415-10-491-1,,mand1415,10-491,xiāoshī,xiāoshī,ɕ j au ⁵⁵ + ʂ ʅ ⁵⁵,,yuhsiaojung2021,,,^ xiāo shī$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),消失;消失
 mand1415-10-510-1,,mand1415,10-510,táolí,táolí,tʰ au ³⁵ + l i ³⁵,,yuhsiaojung2021,,,^ táo lí$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),逃离;逃離
 mand1415-10-520-1,,mand1415,10-520,gēnsuí,gēnsuí,k ə n ⁵⁵ + s w əi ³⁵,,yuhsiaojung2021,,,^ gēn suí$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),跟随;跟隨
@@ -841,7 +841,7 @@ mand1415-10-780-1,,mand1415,10-780,è,è,ə ⁵¹,,yuhsiaojung2021,,,^ è$,defa
 mand1415-10-810-1,,mand1415,10-810,lúnchuán,lúnchuán,l ʊ n ³⁵ + ʈʂ w a n ³⁵,,yuhsiaojung2021,,,^ lún chuán$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),轮船;輪船
 mand1415-10-830-1,,mand1415,10-830,xiǎochuán,xiǎochuán,ɕ j au ²¹⁴ + ʈʂ w a n ³⁵,,yuhsiaojung2021,,,^ xiǎo chuán$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),小船;小船
 mand1415-10-831-1,,mand1415,10-831,dúmùzhōu,dúmùzhōu,t u ³⁵ + m u ⁵¹ + ʈʂ ɔu ⁵⁵,,yuhsiaojung2021,,,^ dú mù zhōu$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),独木舟;獨木舟
-mand1415-10-832-1,,mand1415,10-832,xián wài tuōjià,xián wài tuōjià,ɕ j ɛ n ³⁵ + + w ai ⁵¹ + + tʰ w ɔ ⁵⁵ + tɕ j a ⁵¹,,yuhsiaojung2021,,,^ xián + wài + tuō jià$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),舷外托架;舷外托架
+mand1415-10-832-1,,mand1415,10-832,xián wài tuōjià,xián_wài_tuōjià,ɕ j ɛ n ³⁵ + w ai ⁵¹ + tʰ w ɔ ⁵⁵ + tɕ j a ⁵¹,,yuhsiaojung2021,,,^ xián_ wài_ tuō jià$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),舷外托架;舷外托架
 mand1415-10-840-1,,mand1415,10-840,fá,fá,f a ³⁵,,yuhsiaojung2021,,,^ fá$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),筏;筏
 mand1415-10-850-1,,mand1415,10-850,jiǎng,jiǎng,tɕ j a ŋ ²¹⁴,,yuhsiaojung2021,,,^ jiǎng$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),桨;槳
 mand1415-10-851-1,,mand1415,10-851,duǎnjiǎng,duǎnjiǎng,t w a n ²¹⁴ + tɕ j a ŋ ²¹⁴,,yuhsiaojung2021,,,^ duǎn jiǎng$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),短桨;短槳
@@ -855,7 +855,7 @@ mand1415-10-920-1,,mand1415,10-920,zhuólù,zhuólù,ʈʂ w ɔ ³⁵ + l u ⁵
 mand1415-11-110-1,,mand1415,11-110,yǒu,yǒu,j ɔu ²¹⁴,,yuhsiaojung2021,,,^ yǒu$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),有;有
 mand1415-11-120-1,,mand1415,11-120,yōngyǒu,yōngyǒu,j ʊ ŋ ⁵⁵ + j ɔu ²¹⁴,,yuhsiaojung2021,,,^ yōng yǒu$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),拥有;擁有
 mand1415-11-130-1,,mand1415,11-130,ná,ná,n a ³⁵,,yuhsiaojung2021,,,^ ná$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),拿;拿
-mand1415-11-140-1,,mand1415,11-140,zhuā zhù,zhuā zhù,ʈʂ w a ⁵⁵ + + ʈʂ u ⁵¹,,yuhsiaojung2021,,,^ zhuā + zhù$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),抓住;抓住
+mand1415-11-140-1,,mand1415,11-140,zhuā zhù,zhuā_zhù,ʈʂ w a ⁵⁵ + ʈʂ u ⁵¹,,yuhsiaojung2021,,,^ zhuā_ zhù$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),抓住;抓住
 mand1415-11-150-1,,mand1415,11-150,wòzhe,wòzhe,w ɔ ⁵¹ + ʈʂ ə ⁰,,yuhsiaojung2021,,,^ wò zhe$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),握着;握著
 mand1415-11-160-1,,mand1415,11-160,huòdé,huòdé,x w ɔ ⁵¹ + t ə ³⁵,,yuhsiaojung2021,,,^ huò dé$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),获得;獲得
 mand1415-11-170-1,,mand1415,11-170,bǎochí,bǎochí,p au ²¹⁴ + ʈʂ ʅ ³⁵,,yuhsiaojung2021,,,^ bǎo chí$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),保持;保持
@@ -869,9 +869,9 @@ mand1415-11-250-1,,mand1415,11-250,wǎnjiù,wǎnjiù,w a n ²¹⁴ + tɕ j ɔu
 mand1415-11-270-1,,mand1415,11-270,pòhuài,pòhuài,pʰ w ɔ ⁵¹ + x w ai ⁵¹,,yuhsiaojung2021,,,^ pò huài$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),破坏;破壞
 mand1415-11-280-1,,mand1415,11-280,sǔnhài,sǔnhài,s ʊ n ²¹⁴ + x ai ⁵¹,,yuhsiaojung2021,,,^ sǔn hài$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),损害;損害
 mand1415-11-310-1,,mand1415,11-310,xúnzhǎo,xúnzhǎo,ɕ y n ³⁵ + ʈʂ au ²¹⁴,,yuhsiaojung2021,,,^ xún zhǎo$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),寻找;尋找
-mand1415-11-320-1,,mand1415,11-320,zhǎo dào,zhǎo dào,ʈʂ au ²¹⁴ + + t au ⁵¹,,yuhsiaojung2021,,,^ zhǎo + dào$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),找到;找到
+mand1415-11-320-1,,mand1415,11-320,zhǎo dào,zhǎo_dào,ʈʂ au ²¹⁴ + t au ⁵¹,,yuhsiaojung2021,,,^ zhǎo_ dào$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),找到;找到
 mand1415-11-330-1,,mand1415,11-330,shīqù,shīqù,ʂ ʅ ⁵⁵ + tɕʰ y ⁵¹,,yuhsiaojung2021,,,^ shī qù$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),失去;失去
-mand1415-11-340-1,,mand1415,11-340,fàng kāi,fàng kāi,f a ŋ ⁵¹ + + kʰ ai ⁵⁵,,yuhsiaojung2021,,,^ fàng + kāi$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),放开;放開
+mand1415-11-340-1,,mand1415,11-340,fàng kāi,fàng_kāi,f a ŋ ⁵¹ + kʰ ai ⁵⁵,,yuhsiaojung2021,,,^ fàng_ kāi$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),放开;放開
 mand1415-11-430-1,,mand1415,11-430,qián,qián,tɕʰ j ɛ n ³⁵,,yuhsiaojung2021,,,^ qián$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),钱;錢
 mand1415-11-440-1,,mand1415,11-440,yìngbì,yìngbì,j i ŋ ⁵¹ + p i ⁵¹,,yuhsiaojung2021,,,^ yìng bì$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),硬币;硬幣
 mand1415-11-510-1,,mand1415,11-510,fùyǒu,fùyǒu,f u ⁵¹ + j ɔu ²¹⁴,,yuhsiaojung2021,,,^ fù yǒu$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),富有;富有
@@ -882,7 +882,7 @@ mand1415-11-610-1,,mand1415,11-610,jièchū,jièchū,tɕ j ə ⁵¹ + ʈʂ u �
 mand1415-11-620-1,,mand1415,11-620,jiè,jiè,tɕ j ə ⁵¹,,yuhsiaojung2021,,,^ jiè$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),借;借
 mand1415-11-630-1,,mand1415,11-630,qiàn,qiàn,tɕʰ j ɛ n ⁵¹,,yuhsiaojung2021,,,^ qiàn$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),欠;欠
 mand1415-11-640-1,,mand1415,11-640,zhài,zhài,ʈʂ ai ⁵¹,,yuhsiaojung2021,,,^ zhài$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),债;債
-mand1415-11-650-1,,mand1415,11-650,fù fèi,fù fèi,f u ⁵¹ + + f əi ⁵¹,,yuhsiaojung2021,,,^ fù + fèi$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),付费;付費
+mand1415-11-650-1,,mand1415,11-650,fù fèi,fù_fèi,f u ⁵¹ + f əi ⁵¹,,yuhsiaojung2021,,,^ fù_ fèi$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),付费;付費
 mand1415-11-660-1,,mand1415,11-660,zhànghù,zhànghù,ʈʂ a ŋ ⁵¹ + x u ⁵¹,bank account,yuhsiaojung2021,,,^ zhàng hù$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),账户;賬戶
 mand1415-11-660-2,,mand1415,11-660,jìsuàn,jìsuàn,tɕ i ⁵¹ + s w a n ⁵¹,calculation,yuhsiaojung2021,,,^ jì suàn$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),计算;計算
 mand1415-11-690-1,,mand1415,11-690,shuì,shuì,ʂ w əi ⁵¹,,yuhsiaojung2021,,,^ shuì$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),税;稅
@@ -919,13 +919,13 @@ mand1415-12-150-1,,mand1415,12-150,zhàn,zhàn,ʈʂ a n ⁵¹,,yuhsiaojung2021,
 mand1415-12-160-1,,mand1415,12-160,bǎochí,bǎochí,p au ²¹⁴ + ʈʂ ʅ ³⁵,,yuhsiaojung2021,,,^ bǎo chí$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),保持;保持
 mand1415-12-170-1,,mand1415,12-170,shèngyúwù,shèngyúwù,ʂ ə ŋ ⁵¹ + ɥ y ³⁵ + w u ⁵¹,,yuhsiaojung2021,,,^ shèng yú wù$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),剩余物;剩餘物
 mand1415-12-210-1,,mand1415,12-210,shōují,shōují,ʂ ɔu ⁵⁵ + tɕ i ³⁵,,yuhsiaojung2021,,,^ shōu jí$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),收集;收集
-mand1415-12-212-1,,mand1415,12-212,jiǎn qǐ,jiǎn qǐ,tɕ j ɛ n ²¹⁴ + + tɕʰ i ²¹⁴,,yuhsiaojung2021,,,^ jiǎn + qǐ$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),捡起;撿起
+mand1415-12-212-1,,mand1415,12-212,jiǎn qǐ,jiǎn_qǐ,tɕ j ɛ n ²¹⁴ + tɕʰ i ²¹⁴,,yuhsiaojung2021,,,^ jiǎn_ qǐ$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),捡起;撿起
 mand1415-12-213-1,,mand1415,12-213,duījī,duījī,t w əi ⁵⁵ + tɕ i ⁵⁵,,yuhsiaojung2021,,,^ duī jī$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),堆积;堆積
 mand1415-12-220-1,,mand1415,12-220,liánjiē,liánjiē,l j ɛ n ³⁵ + tɕ j ə ⁵⁵,join,yuhsiaojung2021,,,^ lián jiē$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),连接;連接
 mand1415-12-220-2,,mand1415,12-220,liánhé,liánhé,l j ɛ n ³⁵ + x ə ³⁵,unite,yuhsiaojung2021,,,^ lián hé$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),联合;聯合
-mand1415-12-230-1,,mand1415,12-230,fēn kāi,fēn kāi,f ə n ⁵⁵ + + kʰ ai ⁵⁵,,yuhsiaojung2021,,,^ fēn + kāi$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),分开;分開
+mand1415-12-230-1,,mand1415,12-230,fēn kāi,fēn_kāi,f ə n ⁵⁵ + kʰ ai ⁵⁵,,yuhsiaojung2021,,,^ fēn_ kāi$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),分开;分開
 mand1415-12-232-1,,mand1415,12-232,fēn,fēn,f ə n ⁵⁵,,yuhsiaojung2021,,,^ fēn$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),分;分
-mand1415-12-240-1,,mand1415,12-240,dǎ kāi,dǎ kāi,t a ²¹⁴ + + kʰ ai ⁵⁵,,yuhsiaojung2021,,,^ dǎ + kāi$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),打开;打開
+mand1415-12-240-1,,mand1415,12-240,dǎ kāi,dǎ_kāi,t a ²¹⁴ + kʰ ai ⁵⁵,,yuhsiaojung2021,,,^ dǎ_ kāi$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),打开;打開
 mand1415-12-250-1,,mand1415,12-250,guānbì,guānbì,k w a n ⁵⁵ + p i ⁵¹,,yuhsiaojung2021,,,^ guān bì$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),关闭;關閉
 mand1415-12-260-1,,mand1415,12-260,zhēgài,zhēgài,ʈʂ ə ⁵⁵ + k ai ⁵¹,,yuhsiaojung2021,,,^ zhē gài$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),遮盖;遮蓋
 mand1415-12-270-1,,mand1415,12-270,yǐncáng,yǐncáng,j i n ²¹⁴ + tsʰ a ŋ ³⁵,,yuhsiaojung2021,,,^ yǐn cáng$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),隐藏;隱藏
@@ -989,7 +989,7 @@ mand1415-13-80-1,,mand1415,13-80,bā,bā,p a ⁵⁵,,yuhsiaojung2021,,,^ bā$,d
 mand1415-13-90-1,,mand1415,13-90,jiǔ,jiǔ,tɕ j ɔu ²¹⁴,,yuhsiaojung2021,,,^ jiǔ$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),九;九
 mand1415-13-100-1,,mand1415,13-100,shí,shí,ʂ ʅ ³⁵,,yuhsiaojung2021,,,^ shí$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),十;十
 mand1415-13-101-1,,mand1415,13-101,shíyī,shíyī,ʂ ʅ ³⁵ + j i ⁵⁵,,yuhsiaojung2021,,,^ shí yī$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),十一;十一
-mand1415-13-102-1,,mand1415,13-102,shí'èr,shí'èr,ʂ ʅ ³⁵ + <<'>> ɚ ⁵¹,,yuhsiaojung2021,,,^ shí <'> èr$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),十二;十二
+mand1415-13-102-1,,mand1415,13-102,shí'èr,shí_èr,ʂ ʅ ³⁵ + ɚ ⁵¹,,yuhsiaojung2021,,,^ shí_ èr$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),十二;十二
 mand1415-13-103-1,,mand1415,13-103,shíwǔ,shíwǔ,ʂ ʅ ³⁵ + w u ²¹⁴,,yuhsiaojung2021,,,^ shí wǔ$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),十五;十五
 mand1415-13-104-1,,mand1415,13-104,èrshí,èrshí,ɚ ⁵¹ + ʂ ʅ ³⁵,,yuhsiaojung2021,,,^ èr shí$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),二十;二十
 mand1415-13-105-1,,mand1415,13-105,yìbǎi,yìbǎi,j i ⁵¹ + p ai ²¹⁴,,yuhsiaojung2021,,,^ yì bǎi$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),一百;一百
@@ -1010,7 +1010,7 @@ mand1415-13-330-1,,mand1415,13-330,wéiyī,wéiyī,w əi ³⁵ + j i ⁵⁵,,y
 mand1415-13-340-1,,mand1415,13-340,dìyī,dìyī,t i ⁵¹ + j i ⁵⁵,,yuhsiaojung2021,,,^ dì yī$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),第一;第一
 mand1415-13-340-2,,mand1415,13-340,zuìxiān,zuìxiān,ts w əi ⁵¹ + ɕ j ɛ n ⁵⁵,,yuhsiaojung2021,,,^ zuì xiān$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),最先;最先
 mand1415-13-350-1,,mand1415,13-350,zuìhòu,zuìhòu,ts w əi ⁵¹ + x ɔu ⁵¹,,yuhsiaojung2021,,,^ zuì hòu$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),最后;最後
-mand1415-13-360-1,,mand1415,13-360,dì'èr,dì'èr,t i ⁵¹ + <<'>> ɚ ⁵¹,,yuhsiaojung2021,,,^ dì <'> èr$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),第二;第二
+mand1415-13-360-1,,mand1415,13-360,dì'èr,dì_èr,t i ⁵¹ + ɚ ⁵¹,,yuhsiaojung2021,,,^ dì_ èr$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),第二;第二
 mand1415-13-370-1,,mand1415,13-370,yìshuāng,yìshuāng,j i ⁵¹ + ʂ w a ŋ ⁵⁵,"inanimate objects (shoes, socks, etc)",yuhsiaojung2021,,,^ yì shuāng$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),一双;一雙
 mand1415-13-370-2,,mand1415,13-370,yíduì,yíduì,j i ³⁵ + t w əi ⁵¹,"people (e.g. husband and wife, son and daughter, boyfriend and girlfriend); inanimate objects (earrings)",yuhsiaojung2021,,,^ yí duì$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),一对;一對
 mand1415-13-380-1,,mand1415,13-380,liǎngcì,liǎngcì,l j a ŋ ²¹⁴ + tsʰ ɿ ⁵¹,,yuhsiaojung2021,,,^ liǎng cì$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),两次;兩次
@@ -1036,12 +1036,12 @@ mand1415-14-252-1,,mand1415,14-252,chíxù,chíxù,ʈʂ ʅ ³⁵ + ɕ y ⁵¹,
 mand1415-14-260-1,,mand1415,14-260,jiéshù,jiéshù,tɕ j ə ³⁵ + ʂ u ⁵¹,,yuhsiaojung2021,,,^ jié shù$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),结束;結束
 mand1415-14-270-1,,mand1415,14-270,wánchéng,wánchéng,w a n ³⁵ + ʈʂ ə ŋ ³⁵,,yuhsiaojung2021,,,^ wán chéng$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),完成;完成
 mand1415-14-280-1,,mand1415,14-280,tíngzhǐ,tíngzhǐ,tʰ i ŋ ³⁵ + ʈʂ ʅ ²¹⁴,,yuhsiaojung2021,,,^ tíng zhǐ$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),停止;停止
-mand1415-14-290-1,,mand1415,14-290,zhǔnbèi hǎo,zhǔnbèi hǎo,ʈʂ ʊ n ²¹⁴ + p əi ⁵¹ + + x au ²¹⁴,,yuhsiaojung2021,,,^ zhǔn bèi + hǎo$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),准备好;準備好
+mand1415-14-290-1,,mand1415,14-290,zhǔnbèi hǎo,zhǔnbèi_hǎo,ʈʂ ʊ n ²¹⁴ + p əi ⁵¹ + x au ²¹⁴,,yuhsiaojung2021,,,^ zhǔn bèi_ hǎo$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),准备好;準備好
 mand1415-14-310-1,,mand1415,14-310,zǒngshì,zǒngshì,ts ʊ ŋ ²¹⁴ + ʂ ʅ ⁵¹,,yuhsiaojung2021,,,^ zǒng shì$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),总是;總是
 mand1415-14-320-1,,mand1415,14-320,jīngcháng,jīngcháng,tɕ i ŋ ⁵⁵ + ʈʂ a ŋ ³⁵,,yuhsiaojung2021,,,^ jīng cháng$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),经常;經常
 mand1415-14-330-1,,mand1415,14-330,yǒushí,yǒushí,j ɔu ²¹⁴ + ʂ ʅ ³⁵,,yuhsiaojung2021,,,^ yǒu shí$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),有时;有時
 mand1415-14-331-1,,mand1415,14-331,bùjiǔ,bùjiǔ,p u ⁵¹ + tɕ j ɔu ²¹⁴,,yuhsiaojung2021,,,^ bù jiǔ$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),不久;不久
-mand1415-14-332-1,,mand1415,14-332,cháng shíjiān,cháng shíjiān,ʈʂ a ŋ ³⁵ + + ʂ ʅ ³⁵ + tɕ j ɛ n ⁵⁵,,yuhsiaojung2021,,,^ cháng + shí jiān$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),长时间;長時間
+mand1415-14-332-1,,mand1415,14-332,cháng shíjiān,cháng_shíjiān,ʈʂ a ŋ ³⁵ + ʂ ʅ ³⁵ + tɕ j ɛ n ⁵⁵,,yuhsiaojung2021,,,^ cháng_ shí jiān$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),长时间;長時間
 mand1415-14-340-1,,mand1415,14-340,cóngbù,cóngbù,tsʰ ʊ ŋ ³⁵ + p u ⁵¹,,yuhsiaojung2021,,,^ cóng bù$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),从不;從不
 mand1415-14-350-1,,mand1415,14-350,zài,zài,ts ai ⁵¹,future reference,yuhsiaojung2021,,,^ zài$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),再;再
 mand1415-14-350-2,,mand1415,14-350,yòu,yòu,j ɔu ⁵¹,past reference,yuhsiaojung2021,,,^ yòu$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),又;又
@@ -1068,7 +1068,7 @@ mand1415-14-620-2,,mand1415,14-620,xīngqīrì,xīngqīrì,ɕ i ŋ ⁵⁵ + t
 mand1415-14-630-1,,mand1415,14-630,zhōuyī,zhōuyī,ʈʂ ɔu ⁵⁵ + j i ⁵⁵,literary,yuhsiaojung2021,,,^ zhōu yī$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),周一;周一
 mand1415-14-630-2,,mand1415,14-630,xīngqīyī,xīngqīyī,ɕ i ŋ ⁵⁵ + tɕʰ i ⁵⁵ + j i ⁵⁵,colloquial,yuhsiaojung2021,,,^ xīng qī yī$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),星期一;星期一
 mand1415-14-640-1,,mand1415,14-640,zhōuèr,zhōuèr,ʈʂ ɔu ⁵⁵ + ɚ ⁵¹,literary,yuhsiaojung2021,,,^ zhōu èr$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),周二;周二
-mand1415-14-640-2,,mand1415,14-640,xīngqī’èr,xīngqī’èr,ɕ i ŋ ⁵⁵ + tɕʰ i ⁵⁵ + <<’>> ɚ ⁵¹,colloquial,yuhsiaojung2021,,,^ xīng qī <’> èr$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),星期二;星期二
+mand1415-14-640-2,,mand1415,14-640,xīngqī’èr,xīngqī_èr,ɕ i ŋ ⁵⁵ + tɕʰ i ⁵⁵ + ɚ ⁵¹,colloquial,yuhsiaojung2021,,,^ xīng qī_ èr$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),星期二;星期二
 mand1415-14-650-1,,mand1415,14-650,zhōusān,zhōusān,ʈʂ ɔu ⁵⁵ + s a n ⁵⁵,literary,yuhsiaojung2021,,,^ zhōu sān$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),周三;周三
 mand1415-14-650-2,,mand1415,14-650,xīngqīsān,xīngqīsān,ɕ i ŋ ⁵⁵ + tɕʰ i ⁵⁵ + s a n ⁵⁵,colloquial,yuhsiaojung2021,,,^ xīng qī sān$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),星期三;星期三
 mand1415-14-660-1,,mand1415,14-660,zhōusì,zhōusì,ʈʂ ɔu ⁵⁵ + s ɿ ⁵¹,literary,yuhsiaojung2021,,,^ zhōu sì$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),周四;周四
@@ -1088,7 +1088,7 @@ mand1415-14-760-2,,mand1415,14-760,xiàtiān,xiàtiān,ɕ j a ⁵¹ + tʰ j ɛ
 mand1415-14-770-1,,mand1415,14-770,qiūjì,qiūjì,tɕʰ j ɔu ⁵⁵ + tɕ i ⁵¹,literary,yuhsiaojung2021,,,^ qiū jì$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),秋季;秋季
 mand1415-14-770-2,,mand1415,14-770,qiūtiān,qiūtiān,tɕʰ j ɔu ⁵⁵ + tʰ j ɛ n ⁵⁵,colloquial,yuhsiaojung2021,,,^ qiū tiān$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),秋天;秋天
 mand1415-14-780-1,,mand1415,14-780,jìjié,jìjié,tɕ i ⁵¹ + tɕ j ə ³⁵,,yuhsiaojung2021,,,^ jì jié$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),季节;季節
-mand1415-15-210-1,,mand1415,15-210,yǒu qìwèi,yǒu qìwèi,j ɔu ²¹⁴ + + tɕʰ i ⁵¹ + w əi ⁵¹,,yuhsiaojung2021,,,^ yǒu + qì wèi$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),有气味;有氣味
+mand1415-15-210-1,,mand1415,15-210,yǒu qìwèi,yǒu_qìwèi,j ɔu ²¹⁴ + tɕʰ i ⁵¹ + w əi ⁵¹,,yuhsiaojung2021,,,^ yǒu_ qì wèi$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),有气味;有氣味
 mand1415-15-212-1,,mand1415,15-212,wén,wén,w ə n ³⁵,,yuhsiaojung2021,,,^ wén$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),闻;聞
 mand1415-15-220-1,,mand1415,15-220,wéndào,wéndào,w ə n ³⁵ + t au ⁵¹,,yuhsiaojung2021,,,^ wén dào$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),闻到;聞到
 mand1415-15-250-1,,mand1415,15-250,xiāng,xiāng,ɕ j a ŋ ⁵⁵,,yuhsiaojung2021,,,^ xiāng$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),香;香
@@ -1099,12 +1099,12 @@ mand1415-15-360-1,,mand1415,15-360,xián,xián,ɕ j ɛ n ³⁵,,yuhsiaojung2021
 mand1415-15-370-1,,mand1415,15-370,kǔ,kǔ,kʰ u ²¹⁴,,yuhsiaojung2021,,,^ kǔ$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),苦;苦
 mand1415-15-380-1,,mand1415,15-380,suān,suān,s w a n ⁵⁵,,yuhsiaojung2021,,,^ suān$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),酸;酸
 mand1415-15-390-1,,mand1415,15-390,wēixián,wēixián,w əi ⁵⁵ + ɕ j ɛ n ³⁵,,yuhsiaojung2021,,,^ wēi xián$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),微咸;微鹹
-mand1415-15-410-1,,mand1415,15-410,tīng dào,tīng dào,tʰ i ŋ ⁵⁵ + + t au ⁵¹,,yuhsiaojung2021,,,^ tīng + dào$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),听到;聽到
+mand1415-15-410-1,,mand1415,15-410,tīng dào,tīng_dào,tʰ i ŋ ⁵⁵ + t au ⁵¹,,yuhsiaojung2021,,,^ tīng_ dào$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),听到;聽到
 mand1415-15-420-1,,mand1415,15-420,tīng,tīng,tʰ i ŋ ⁵⁵,,yuhsiaojung2021,,,^ tīng$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),听;聽
 mand1415-15-440-1,,mand1415,15-440,shēngyīn,shēngyīn,ʂ ə ŋ ⁵⁵ + j i n ⁵⁵,,yuhsiaojung2021,,,^ shēng yīn$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),声音;聲音
 mand1415-15-450-1,,mand1415,15-450,dàshēng,dàshēng,t a ⁵¹ + ʂ ə ŋ ⁵⁵,,yuhsiaojung2021,,,^ dà shēng$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),大声;大聲
 mand1415-15-460-1,,mand1415,15-460,ānjìng,ānjìng,a n ⁵⁵ + tɕ i ŋ ⁵¹,,yuhsiaojung2021,,,^ ān jìng$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),安静;安靜
-mand1415-15-510-1,,mand1415,15-510,kàn jiàn,kàn jiàn,kʰ a n ⁵¹ + + tɕ j ɛ n ⁵¹,,yuhsiaojung2021,,,^ kàn + jiàn$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),看见;看見
+mand1415-15-510-1,,mand1415,15-510,kàn jiàn,kàn_jiàn,kʰ a n ⁵¹ + tɕ j ɛ n ⁵¹,,yuhsiaojung2021,,,^ kàn_ jiàn$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),看见;看見
 mand1415-15-520-1,,mand1415,15-520,kàn,kàn,kʰ a n ⁵¹,,yuhsiaojung2021,,,^ kàn$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),看;看
 mand1415-15-550-1,,mand1415,15-550,chūshì,chūshì,ʈʂ u ⁵⁵ + ʂ ʅ ⁵¹,,yuhsiaojung2021,,,^ chū shì$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),出示;出示
 mand1415-15-560-1,,mand1415,15-560,fāguāng,fāguāng,f a ⁵⁵ + k w a ŋ ⁵⁵,,yuhsiaojung2021,,,^ fā guāng$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),发光;發光
@@ -1139,7 +1139,7 @@ mand1415-15-851-1,,mand1415,15-851,wēnnuǎn,wēnnuǎn,w ə n ⁵⁵ + n w a n
 mand1415-15-860-1,,mand1415,15-860,lěng,lěng,l ə ŋ ²¹⁴,,yuhsiaojung2021,,,^ lěng$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),冷;冷
 mand1415-15-870-1,,mand1415,15-870,gānjìng,gānjìng,k a n ⁵⁵ + tɕ i ŋ ⁵¹,,yuhsiaojung2021,,,^ gān jìng$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),干净;乾凈
 mand1415-15-880-1,,mand1415,15-880,zāng,zāng,ts a ŋ ⁵⁵,,yuhsiaojung2021,,,^ zāng$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),脏;髒
-mand1415-15-890-1,,mand1415,15-890,yǒu zhòuwén,yǒu zhòuwén,j ɔu ²¹⁴ + + ʈʂ ɔu ⁵¹ + w ə n ³⁵,,yuhsiaojung2021,,,^ yǒu + zhòu wén$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),有皱纹;有皺紋
+mand1415-15-890-1,,mand1415,15-890,yǒu zhòuwén,yǒu_zhòuwén,j ɔu ²¹⁴ + ʈʂ ɔu ⁵¹ + w ə n ³⁵,,yuhsiaojung2021,,,^ yǒu_ zhòu wén$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),有皱纹;有皺紋
 mand1415-16-110-1,,mand1415,16-110,línghún,línghún,l i ŋ ³⁵ + x ʊ n ³⁵,,yuhsiaojung2021,,,^ líng hún$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),灵魂;靈魂
 mand1415-16-150-1,,mand1415,16-150,jīngyà,jīngyà,tɕ i ŋ ⁵⁵ + j a ⁵¹,,yuhsiaojung2021,,,^ jīng yà$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),惊讶;驚訝
 mand1415-16-180-1,,mand1415,16-180,hǎoyùn,hǎoyùn,x au ²¹⁴ + ɥ y n ⁵¹,,yuhsiaojung2021,,,^ hǎo yùn$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),好运;好運
@@ -1166,7 +1166,7 @@ mand1415-16-410-1,,mand1415,16-410,yuànhèn,yuànhèn,ɥ ɛ n ⁵¹ + x ə n 
 mand1415-16-420-1,,mand1415,16-420,fènnù,fènnù,f ə n ⁵¹ + n u ⁵¹,,yuhsiaojung2021,,,^ fèn nù$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),愤怒;憤怒
 mand1415-16-440-1,,mand1415,16-440,jídù,jídù,tɕ i ³⁵ + t u ⁵¹,,yuhsiaojung2021,,,^ jí dù$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),嫉妒;嫉妒
 mand1415-16-450-1,,mand1415,16-450,xiūkuìgǎn,xiūkuìgǎn,ɕ j ɔu ⁵⁵ + kʰ w əi ⁵¹ + k a n ²¹⁴,,yuhsiaojung2021,,,^ xiū kuì gǎn$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),羞愧感;羞愧感
-mand1415-16-480-1,,mand1415,16-480,jiāo’ào,jiāo’ào,tɕ j au ⁵⁵ + <<’>> au ⁵¹,,yuhsiaojung2021,,,^ jiāo <’> ào$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),骄傲;驕傲
+mand1415-16-480-1,,mand1415,16-480,jiāo’ào,jiāo_ào,tɕ j au ⁵⁵ + au ⁵¹,,yuhsiaojung2021,,,^ jiāo_ ào$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),骄傲;驕傲
 mand1415-16-510-1,,mand1415,16-510,gǎn,gǎn,k a n ²¹⁴,,yuhsiaojung2021,,,^ gǎn$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),敢;敢
 mand1415-16-520-1,,mand1415,16-520,yǒnggǎn,yǒnggǎn,j ʊ ŋ ²¹⁴ + k a n ²¹⁴,,yuhsiaojung2021,,,^ yǒng gǎn$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),勇敢;勇敢
 mand1415-16-530-1,,mand1415,16-530,hàipà,hàipà,x ai ⁵¹ + pʰ a ⁵¹,,yuhsiaojung2021,,,^ hài pà$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),害怕;害怕
@@ -1176,7 +1176,7 @@ mand1415-16-622-1,,mand1415,16-622,xuǎnzé,xuǎnzé,ɕ ɥ ɛ n ²¹⁴ + ts �
 mand1415-16-630-1,,mand1415,16-630,xīwàng,xīwàng,ɕ i ⁵⁵ + w a ŋ ⁵¹,,yuhsiaojung2021,,,^ xī wàng$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),希望;希望
 mand1415-16-650-1,,mand1415,16-650,zhōngchéng,zhōngchéng,ʈʂ ʊ ŋ ⁵⁵ + ʈʂ ə ŋ ³⁵,,yuhsiaojung2021,,,^ zhōng chéng$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),忠诚;忠誠
 mand1415-16-660-1,,mand1415,16-660,zhēnshí,zhēnshí,ʈʂ ə n ⁵⁵ + ʂ ʅ ³⁵,,yuhsiaojung2021,,,^ zhēn shí$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),真实;真實
-mand1415-16-670-1,,mand1415,16-670,shuō huǎng,shuō huǎng,ʂ w ɔ ⁵⁵ + + x w a ŋ ²¹⁴,,yuhsiaojung2021,,,^ shuō + huǎng$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),说谎;說謊
+mand1415-16-670-1,,mand1415,16-670,shuō huǎng,shuō_huǎng,ʂ w ɔ ⁵⁵ + x w a ŋ ²¹⁴,,yuhsiaojung2021,,,^ shuō_ huǎng$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),说谎;說謊
 mand1415-16-680-1,,mand1415,16-680,qīzhà,qīzhà,tɕʰ i ⁵⁵ + ʈʂ a ⁵¹,,yuhsiaojung2021,,,^ qī zhà$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),欺诈;欺詐
 mand1415-16-690-1,,mand1415,16-690,yuánliàng,yuánliàng,ɥ ɛ n ³⁵ + l j a ŋ ⁵¹,,yuhsiaojung2021,,,^ yuán liàng$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),原谅;原諒
 mand1415-16-710-1,,mand1415,16-710,hǎo,hǎo,x au ²¹⁴,,yuhsiaojung2021,,,^ hǎo$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),好;好
@@ -1241,7 +1241,7 @@ mand1415-17-610-2,,mand1415,17-610,zěnmeyàng,zěnmeyàng,ts ə n ²¹⁴ + m
 mand1415-17-620-1,,mand1415,17-620,duōshǎo,duōshǎo,t w ɔ ⁵⁵ + ʂ au ²¹⁴,,yuhsiaojung2021,,,^ duō shǎo$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),多少？;多少？
 mand1415-17-630-1,,mand1415,17-630,duōshǎo,duōshǎo,t w ɔ ⁵⁵ + ʂ au ²¹⁴,,yuhsiaojung2021,,,^ duō shǎo$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),多少？;多少？
 mand1415-17-640-1,,mand1415,17-640,shénme,shénme,ʂ ə n ³⁵ + m ə ⁰,,yuhsiaojung2021,,,^ shénme $,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),什么？;什麼？
-mand1415-17-650-1,,mand1415,17-650,shénme shíhou,shénme shíhou,ʂ ə n ³⁵ + m ə ⁰ + ʂ ʅ ³⁵ + <<h>> <<o>> <<u>>,,yuhsiaojung2021,,,^ shénme + shí <h> <o> <u> $,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),什么时候？;什麼時候？
+mand1415-17-650-1,,mand1415,17-650,shénme shíhou,shénme_shíhou,ʂ ə n ³⁵ + m ə ⁰ + ʂ ʅ ³⁵ + x ɔu ⁰,,yuhsiaojung2021,,,^ shénme_shíhou $,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),什么时候？;什麼時候？
 mand1415-17-660-1,,mand1415,17-660,nǎli,nǎli,n a ²¹⁴ + l i ⁰,Southern,yuhsiaojung2021,,,^ nǎ li$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),哪里?;哪裡？
 mand1415-17-660-2,,mand1415,17-660,nǎr,nǎr,n a˞ ²¹⁴,Northern,yuhsiaojung2021,,,^ nǎr $,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),哪儿？;哪兒？
 mand1415-17-670-1,,mand1415,17-670,nǎge,nǎge,n a ²¹⁴ + k ə ⁰,,yuhsiaojung2021,,,^ nǎ ge$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),哪个？;哪個？
@@ -1255,10 +1255,10 @@ mand1415-18-160-1,,mand1415,18-160,gūnong,gūnong,k u ⁵⁵ + n ʊ ŋ ⁰,,yu
 mand1415-18-170-1,,mand1415,18-170,shàoshēng,shàoshēng,ʂ au ⁵¹ + ʂ ə ŋ ⁵⁵,,yuhsiaojung2021,,,^ shào shēng$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),哨声;哨聲
 mand1415-18-180-1,,mand1415,18-180,jiānjiào,jiānjiào,tɕ j ɛ n ⁵⁵ + tɕ j au ⁵¹,,yuhsiaojung2021,,,^ jiān jiào$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),尖叫;尖叫
 mand1415-18-190-1,,mand1415,18-190,háojiào,háojiào,x au ³⁵ + tɕ j au ⁵¹,,yuhsiaojung2021,,,^ háo jiào$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),号叫;號叫
-mand1415-18-210-1,,mand1415,18-210,shuō huà,shuō huà,ʂ w ɔ ⁵⁵ + + x w a ⁵¹,,yuhsiaojung2021,,,^ shuō + huà$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),说话;說話
+mand1415-18-210-1,,mand1415,18-210,shuō huà,shuō_huà,ʂ w ɔ ⁵⁵ + x w a ⁵¹,,yuhsiaojung2021,,,^ shuō_ huà$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),说话;說話
 mand1415-18-211-1,,mand1415,18-211,kǒuchī,kǒuchī,kʰ ɔu ²¹⁴ + ʈʂ ʅ ⁵⁵,,yuhsiaojung2021,,,^ kǒu chī$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),口吃;口吃
 mand1415-18-220-1,,mand1415,18-220,shuō,shuō,ʂ w ɔ ⁵⁵,,yuhsiaojung2021,,,^ shuō$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),说;說
-mand1415-18-221-1,,mand1415,18-221,jiǎng gùshi,jiǎng gùshi,tɕ j a ŋ ²¹⁴ + + k u ⁵¹ + ʂ ʅ ⁰,,yuhsiaojung2021,,,^ jiǎng + gù shi$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),讲故事;講故事
+mand1415-18-221-1,,mand1415,18-221,jiǎng gùshi,jiǎng_gùshi,tɕ j a ŋ ²¹⁴ + k u ⁵¹ + ʂ ʅ ⁰,,yuhsiaojung2021,,,^ jiǎng_ gù shi$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),讲故事;講故事
 mand1415-18-222-1,,mand1415,18-222,yǎnjiǎng,yǎnjiǎng,j a n ²¹⁴ + tɕ j a ŋ ²¹⁴,,yuhsiaojung2021,,,^ yǎn jiǎng$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),演讲;演講
 mand1415-18-230-1,,mand1415,18-230,ānjìng,ānjìng,a n ⁵⁵ + tɕ i ŋ ⁵¹,,yuhsiaojung2021,,,^ ān jìng$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),安静;安靜
 mand1415-18-240-1,,mand1415,18-240,yǔyán,yǔyán,ɥ y ²¹⁴ + j a n ³⁵,,yuhsiaojung2021,,,^ yǔ yán$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),语言;語言
@@ -1288,7 +1288,7 @@ mand1415-18-670-1,,mand1415,18-670,shīrén,shīrén,ʂ ʅ ⁵⁵ + ʐ ə n ³
 mand1415-18-710-1,,mand1415,18-710,chángdí,chángdí,ʈʂ a ŋ ³⁵ + t i ³⁵,,yuhsiaojung2021,,,^ cháng dí$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),长笛;長笛
 mand1415-18-720-1,,mand1415,18-720,gǔ,gǔ,k u ²¹⁴,,yuhsiaojung2021,,,^ gǔ$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),鼓;鼓
 mand1415-18-730-1,,mand1415,18-730,hào,hào,x au ⁵¹,,yuhsiaojung2021,,,^ hào$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),号;號
-mand1415-18-740-1,,mand1415,18-740,pīngpāng xiǎng,pīngpāng xiǎng,pʰ i ŋ ⁵⁵ + pʰ a ŋ ⁵⁵ + + ɕ j a ŋ ²¹⁴,,yuhsiaojung2021,,,^ pīng pāng + xiǎng$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),乒乓响;乒乓響
+mand1415-18-740-1,,mand1415,18-740,pīngpāng xiǎng,pīngpāng_xiǎng,pʰ i ŋ ⁵⁵ + pʰ a ŋ ⁵⁵ + ɕ j a ŋ ²¹⁴,,yuhsiaojung2021,,,^ pīng pāng_ xiǎng$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),乒乓响;乒乓響
 mand1415-19-110-1,,mand1415,19-110,guójiā,guójiā,k w ɔ ³⁵ + tɕ j a ⁵⁵,,yuhsiaojung2021,,,^ guó jiā$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),国家;國家
 mand1415-19-120-1,,mand1415,19-120,zǔguó,zǔguó,ts u ²¹⁴ + k w ɔ ³⁵,,yuhsiaojung2021,,,^ zǔ guó$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),祖国;祖國
 mand1415-19-150-1,,mand1415,19-150,chéng,chéng,ʈʂ ə ŋ ³⁵,,yuhsiaojung2021,,,^ chéng$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),城;城
@@ -1364,11 +1364,11 @@ mand1415-20-530-1,,mand1415,20-530,diàoyúxiàn,diàoyúxiàn,t j au ⁵¹ +
 mand1415-20-540-1,,mand1415,20-540,yúwǎng,yúwǎng,ɥ y ³⁵ + w a ŋ ²¹⁴,,yuhsiaojung2021,,,^ yú wǎng$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),渔网;漁網
 mand1415-20-550-1,,mand1415,20-550,yúxiànjǐng,yúxiànjǐng,ɥ y ³⁵ + ɕ j ɛ n ⁵¹ + tɕ i ŋ ²¹⁴,,yuhsiaojung2021,,,^ yú xiàn jǐng$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),鱼陷阱;魚陷阱
 mand1415-20-560-1,,mand1415,20-560,ěr,ěr,ɚ ²¹⁴,,yuhsiaojung2021,,,^ ěr$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),饵;餌
-mand1415-20-610-1,,mand1415,20-610,dǎ liè,dǎ liè,t a ²¹⁴ + + l j ə ⁵¹,,yuhsiaojung2021,,,^ dǎ + liè$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),打猎;打獵
+mand1415-20-610-1,,mand1415,20-610,dǎ liè,dǎ_liè,t a ²¹⁴ + l j ə ⁵¹,,yuhsiaojung2021,,,^ dǎ_ liè$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),打猎;打獵
 mand1415-20-620-1,,mand1415,20-620,shèjī,shèjī,ʂ ə ⁵¹ + tɕ i ⁵⁵,,yuhsiaojung2021,,,^ shè jī$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),射击;射擊
-mand1415-20-630-1,,mand1415,20-630,wèi jīzhòng,wèi jīzhòng,w əi ⁵¹ + + tɕ i ⁵⁵ + ʈʂ ʊ ŋ ⁵¹,,yuhsiaojung2021,,,^ wèi + jī zhòng$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),未击中;未擊中
+mand1415-20-630-1,,mand1415,20-630,wèi jīzhòng,wèi_jīzhòng,w əi ⁵¹ + tɕ i ⁵⁵ + ʈʂ ʊ ŋ ⁵¹,,yuhsiaojung2021,,,^ wèi_ jī zhòng$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),未击中;未擊中
 mand1415-20-640-1,,mand1415,20-640,xiànjǐng,xiànjǐng,ɕ j ɛ n ⁵¹ + tɕ i ŋ ²¹⁴,,yuhsiaojung2021,,,^ xiàn jǐng$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),陷阱;陷阱
-mand1415-20-650-1,,mand1415,20-650,shè xiànjǐng,shè xiànjǐng,ʂ ə ⁵¹ + + ɕ j ɛ n ⁵¹ + tɕ i ŋ ²¹⁴,,yuhsiaojung2021,,,^ shè + xiàn jǐng$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),设陷阱;設陷阱
+mand1415-20-650-1,,mand1415,20-650,shè xiànjǐng,shè_xiànjǐng,ʂ ə ⁵¹ + ɕ j ɛ n ⁵¹ + tɕ i ŋ ²¹⁴,,yuhsiaojung2021,,,^ shè_ xiàn jǐng$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),设陷阱;設陷阱
 mand1415-21-110-1,,mand1415,21-110,fǎlǜ,fǎlǜ,f a ²¹⁴ + l y ⁵¹,,yuhsiaojung2021,,,^ fǎ lǜ$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),法律;法律
 mand1415-21-150-1,,mand1415,21-150,fǎtíng,fǎtíng,f a ²¹⁴ + tʰ i ŋ ³⁵,,yuhsiaojung2021,,,^ fǎ tíng$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),法庭;法庭
 mand1415-21-160-1,,mand1415,21-160,pànjué,pànjué,pʰ a n ⁵¹ + tɕ ɥ ə ³⁵,,yuhsiaojung2021,,,^ pàn jué$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),判决;判決
@@ -1381,8 +1381,8 @@ mand1415-21-240-1,,mand1415,21-240,fāshì,fāshì,f a ⁵⁵ + ʂ ʅ ⁵¹,,y
 mand1415-21-250-1,,mand1415,21-250,xuānshì,xuānshì,ɕ ɥ ɛ n ⁵⁵ + ʂ ʅ ⁵¹,,yuhsiaojung2021,,,^ xuān shì$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),宣誓;宣誓
 mand1415-21-310-1,,mand1415,21-310,zhǐkòng,zhǐkòng,ʈʂ ʅ ²¹⁴ + kʰ ʊ ŋ ⁵¹,,yuhsiaojung2021,,,^ zhǐ kòng$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),指控;指控
 mand1415-21-320-1,,mand1415,21-320,pànchǔ,pànchǔ,pʰ a n ⁵¹ + ʈʂ u ²¹⁴,,yuhsiaojung2021,,,^ pàn chǔ$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),判处;判處
-mand1415-21-330-1,,mand1415,21-330,pànjué...yǒuzuì,pànjué...yǒuzuì,pʰ a n ⁵¹ + tɕ ɥ ə ³⁵ + <<.>> <<.>> <<.>> j ɔu ²¹⁴ + ts w əi ⁵¹,,yuhsiaojung2021,,,^ pàn jué <.> <.> <.> yǒu zuì$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),判决...有罪;判決...有罪
-mand1415-21-340-1,,mand1415,21-340,xuānpàn...wúzuì,xuānpàn...wúzuì,ɕ ɥ ɛ n ⁵⁵ + pʰ a n ⁵¹ + <<.>> <<.>> <<.>> w u ³⁵ + ts w əi ⁵¹,,yuhsiaojung2021,,,^ xuān pàn <.> <.> <.> wú zuì$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),宣判...无罪;宣判...無罪
+mand1415-21-330-1,,mand1415,21-330,pànjué...yǒuzuì,pànjuéyǒuzuì,pʰ a n ⁵¹ + tɕ ɥ ə ³⁵ + j ɔu ²¹⁴ + ts w əi ⁵¹,,yuhsiaojung2021,,,^ pàn jué yǒu zuì$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),判决...有罪;判決...有罪
+mand1415-21-340-1,,mand1415,21-340,xuānpàn...wúzuì,xuānpànwúzuì,ɕ ɥ ɛ n ⁵⁵ + pʰ a n ⁵¹ + w u ³⁵ + ts w əi ⁵¹,,yuhsiaojung2021,,,^ xuān pàn wú zuì$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),宣判...无罪;宣判...無罪
 mand1415-21-350-1,,mand1415,21-350,yǒuzuì,yǒuzuì,j ɔu ²¹⁴ + ts w əi ⁵¹,,yuhsiaojung2021,,,^ yǒu zuì$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),有罪;有罪
 mand1415-21-360-1,,mand1415,21-360,wúzuì,wúzuì,w u ³⁵ + ts w əi ⁵¹,,yuhsiaojung2021,,,^ wú zuì$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),无罪;無罪
 mand1415-21-370-1,,mand1415,21-370,chǔfá,chǔfá,ʈʂ u ²¹⁴ + f a ³⁵,,yuhsiaojung2021,,,^ chǔ fá$,default,Pinyin;StandOrth (Simplified);StandOrth (Traditional),处罚;處罰
