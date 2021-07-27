@@ -12,7 +12,7 @@ setup(
         ]
     },
     install_requires=[
-        'cldfbench>=1.3.0',
+        'cldfbench[excel]>=1.3.0',
         'pylexibank>=2.8.2',
         'idspy>=0.2',
     ],
