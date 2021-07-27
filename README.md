@@ -1,8 +1,14 @@
 # Mandarin Chinese IDS wordlist by Hsiao-jung Yu and Yifan Wang
 
-Cite the source dataset as
+## How to cite
 
-> Hsiao-jung Yu and Yifan Wang. 2021. Mandarin Chinese dictionary. In: Key, Mary Ritchie & Comrie, Bernard (eds.) The Intercontinental Dictionary Series. Leipzig: Max Planck Institute for Evolutionary Anthropology. (Available online at https://ids.clld.org/)
+If you use these data please cite
+- the original source
+  > Hsiao-jung Yu and Yifan Wang. 2021. Mandarin Chinese dictionary. In: Key, Mary Ritchie & Comrie, Bernard (eds.) The Intercontinental Dictionary Series. Leipzig: Max Planck Institute for Evolutionary Anthropology. (Available online at https://ids.clld.org/)
+- the derived dataset using the DOI of the [particular released version](../../releases/) you were using
+
+## Description
+
 
 This dataset is licensed under a CC-BY-4.0 license
 
@@ -37,3 +43,10 @@ Hsiao-jung Yu |  | author, data entry | Author
 Yifan Wang |  | author, data entry | Author
 Hans-Jörg Bibiko | @Bibiko | patron, code | Maintainer
 
+
+
+## CLDF Datasets
+
+The following CLDF datasets are available in [cldf](cldf):
+
+- CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf/cldf-metadata.json](cldf/cldf-metadata.json)
