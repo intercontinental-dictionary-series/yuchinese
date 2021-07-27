@@ -2,13 +2,13 @@ from setuptools import setup
 
 
 setup(
-    name='cldfbench_yuchinese',
-    py_modules=['cldfbench_yuchinese'],
+    name='lexibank_yuchinese',
+    py_modules=['lexibank_yuchinese'],
     include_package_data=True,
     zip_safe=False,
     entry_points={
         'cldfbench.dataset': [
-            'yuchinese=cldfbench_yuchinese:Dataset',
+            'yuchinese=lexibank_yuchinese:Dataset',
         ]
     },
     install_requires=[
