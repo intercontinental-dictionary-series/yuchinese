@@ -11,12 +11,18 @@
         },
         {
             "name": "Yifan Wang"
-        },
-        {
-            "name": "Hans-J\u00f6rg Bibiko"
         }
     ],
-    "contributors": [],
+    "contributors": [
+        {
+            "name": "Hans-J\u00f6rg Bibiko",
+            "type": "Editor"
+        },
+        {
+            "name": "Johann-Mattis List",
+            "type": "Other"
+        }
+    ],
     "communities": [
         {
             "identifier": "lexibank"

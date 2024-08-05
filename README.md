@@ -1,5 +1,7 @@
 # Mandarin Chinese IDS wordlist by Hsiao-jung Yu and Yifan Wang
 
+[![CLDF validation](https://github.com/intercontinental-dictionary-series/yuchinese/workflows/CLDF-validation/badge.svg)](https://github.com/intercontinental-dictionary-series/yuchinese/actions?query=workflow%3ACLDF-validation)
+
 ## How to cite
 
 If you use these data please cite
@@ -25,14 +27,14 @@ Conceptlists in Concepticon:
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 1
-- **Concepts:** 1,307
+- **Varieties:** 1 (linked to 1 different Glottocodes)
+- **Concepts:** 1,307 (linked to 1,305 different Concepticon concept sets)
 - **Lexemes:** 1,423
 - **Sources:** 1
 - **Synonymy:** 1.09
 - **Invalid lexemes:** 0
 - **Tokens:** 10,424
-- **Segments:** 48 (0 BIPA errors, 0 CTLS sound class errors, 48 CLTS modified)
+- **Segments:** 48 (0 BIPA errors, 0 CLTS sound class errors, 48 CLTS modified)
 - **Inventory size (avg):** 48.00
 
 # Contributors
@@ -41,7 +43,9 @@ Name               | GitHub user     | Description                          | Ro
 ---                | ---             | ---                                  | ---
 Hsiao-jung Yu |  | author, data entry | Author
 Yifan Wang |  | author, data entry | Author
-Hans-Jörg Bibiko | @Bibiko | patron, code | Maintainer
+Hans-Jörg Bibiko | @Bibiko | patron, code | Editor
+Johann-Mattis List| @LinguList | profile | Other
+
 
 
 
