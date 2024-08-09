@@ -4,4 +4,5 @@ Name               | GitHub user     | Description                          | Ro
 ---                | ---             | ---                                  | ---
 Hsiao-jung Yu |  | author, data entry | Author
 Yifan Wang |  | author, data entry | Author
-Hans-Jörg Bibiko | @Bibiko | patron, code | Maintainer
+Hans-Jörg Bibiko | @Bibiko | patron, code | Editor
+Johann-Mattis List| @LinguList | profile | Other
